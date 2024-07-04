@@ -1,0 +1,5 @@
+mkdocs-material
+pymdown-extensions
+mkdocs-include-markdown-plugin
+pre-commit
+codespell
