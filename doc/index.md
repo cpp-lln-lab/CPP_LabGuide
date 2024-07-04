@@ -1,6 +1,6 @@
 # CPP Lab Guide
 
-Lorem Ipsum test
+Lorem Ipsum test final
 
 
 ## FAQ
