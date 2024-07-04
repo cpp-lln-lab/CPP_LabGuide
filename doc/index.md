@@ -1,7 +1,6 @@
 # CPP Lab Guide
 
-Lorem Ipsum test final final
-
+This repo is private, can you still read me?
 
 ## FAQ
 
