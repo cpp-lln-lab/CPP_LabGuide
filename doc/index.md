@@ -5,7 +5,7 @@ Lorem Ipsum test final final
 
 ## FAQ
 
-What is the meaning of life? $2
+What is the meaning of life? 42
 
 ## Contributing
 
