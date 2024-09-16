@@ -4,17 +4,17 @@ Something is not clear or incorrenct or incomplete, something needs some updates
 
 ## Submit an issue (no git/github skills required)
 
-Open an issue from [here](https://github.com/cpp-lln-lab/CPP_HPC/issues/new/choose) and try to be the most detailed possible.
+Open an issue from [here](https://github.com/cpp-lln-lab/CPP_LabGuide/issues/new/choose) and try to be the most detailed possible.
 
 ## Make the changes your self (minor git/github skills required)
 
-The actual text/scripts you find in this website are in this [repo](https://github.com/cpp-lln-lab/CPP_HPC) and in the `doc` folder [here](https://github.com/cpp-lln-lab/CPP_HPC/tree/main/doc)
+The actual text/scripts you find in this website are in this [repo](https://github.com/cpp-lln-lab/CPP_LabGuide) and in the `doc` folder [here](https://github.com/cpp-lln-lab/CPP_LabGuide/tree/main/doc)
 
 Each article/section of the website is a specific markdown file with the same transparent name (more or less).
 
 ### Edit from github
 
-Just find the the markdown file you want to edit (eg the one for this section [contributing.md](https://github.com/cpp-lln-lab/CPP_HPC/blob/main/doc/contributing.md)) and click on `edit` (the pen icon) on the top right.
+Just find the the markdown file you want to edit (eg the one for this section [contributing.md](https://github.com/cpp-lln-lab/CPP_LabGuide/blob/main/doc/contributing.md)) and click on `edit` (the pen icon) on the top right.
 
 When done, click on `commit changes` (green botton on the top right) and select `Create a new branch for this commit and start a pull request` and then `Commit changes`.
 
