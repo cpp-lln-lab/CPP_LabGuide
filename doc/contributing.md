@@ -1,14 +1,14 @@
 # CONTRIBUTING
 
-This is a common effort, please contribute actively to this docs. 
+This is a common effort, please contribute actively to this docs.
 If something is unclear, incorrenct, or incomplete; if something needs to be updated or if you found a new and cool feature, consider adding it yourself.
-Here's a few guidelines on how to do so. 
+Here's a few guidelines on how to do so.
 
 
 ## Submit an issue (no git/github skills required)
 Open an issue from [here](https://github.com/cpp-lln-lab/CPP_LabGuide/issues/new/choose) and try to be the most detailed possible.
 
-Try to be the most detailed possible, so it's easier to intervene. 
+Try to be the most detailed possible, so it's easier to intervene.
 
 The actual text/scripts you find in this website are in this [repo](https://github.com/cpp-lln-lab/CPP_LabGuide) and in the `doc` folder [here](https://github.com/cpp-lln-lab/CPP_LabGuide/tree/main/doc)
 
@@ -21,7 +21,7 @@ If you're new to markdown, here's a quick [cheatsheet](https://www.markdownguide
 Just find the the markdown file you want to edit (eg the one for this section [contributing.md](https://github.com/cpp-lln-lab/CPP_LabGuide/blob/main/doc/contributing.md)) and click on `edit` (the pen icon) on the top right.
 
 
-### Edit from github 
+### Edit from github
 
 1. Browse the repo to find the the markdown file you want to edit (e.g. the one for this section is [contributing.md](https://github.com/cpp-lln-lab/CPP_HPC/blob/main/doc/contributing.md)) and click on `edit` (the pen icon) on the top right
 2. Edit the file with your changes
