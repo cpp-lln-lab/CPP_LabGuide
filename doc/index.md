@@ -1,6 +1,6 @@
 # CPP Lab Guide
 
-This repo is private, can you still read me?
+Can you read me?
 
 ## FAQ
 
