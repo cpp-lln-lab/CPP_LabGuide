@@ -15,7 +15,7 @@ The actual text/scripts you find in this website are in this [repo](https://gith
 ## Make the changes yourself (minor git/github skills required)
 
 The actual text/scripts you find in this website are in this [repoistory](https://github.com/cpp-lln-lab/CPP_HPC) and in the `/doc` folder [here](https://github.com/cpp-lln-lab/CPP_HPC/tree/main/doc)
-Each article/section of the website is a specific markdown (.md) file with (more or less) the same transparent name.
+Each article/section of the website is a specific markdown (`.md`) file with (more or less) the same transparent name.
 
 If you're new to markdown, here's a quick [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
 Just find the the markdown file you want to edit (eg the one for this section [contributing.md](https://github.com/cpp-lln-lab/CPP_LabGuide/blob/main/doc/contributing.md)) and click on `edit` (the pen icon) on the top right.
