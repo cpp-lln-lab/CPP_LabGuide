@@ -6,10 +6,11 @@ Here's a few guidelines on how to do so.
 
 
 ## Submit an issue (no git/github skills required)
+Open an issue from [here](https://github.com/cpp-lln-lab/CPP_LabGuide/issues/new/choose) and try to be the most detailed possible.
 
-Open an issue from [here](https://github.com/cpp-lln-lab/CPP_HPC/issues/new/choose). This will inform others that a change has to be made. 
 Try to be the most detailed possible, so it's easier to intervene. 
 
+The actual text/scripts you find in this website are in this [repo](https://github.com/cpp-lln-lab/CPP_LabGuide) and in the `doc` folder [here](https://github.com/cpp-lln-lab/CPP_LabGuide/tree/main/doc)
 
 ## Make the changes yourself (minor git/github skills required)
 
@@ -17,6 +18,7 @@ The actual text/scripts you find in this website are in this [repoistory](https:
 Each article/section of the website is a specific markdown (.md) file with (more or less) the same transparent name.
 
 If you're new to markdown, here's a quick [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
+Just find the the markdown file you want to edit (eg the one for this section [contributing.md](https://github.com/cpp-lln-lab/CPP_LabGuide/blob/main/doc/contributing.md)) and click on `edit` (the pen icon) on the top right.
 
 
 ### Edit from github 
