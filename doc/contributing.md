@@ -7,7 +7,7 @@ Here's a short guidelines on how to do so.
 
 ## Submit an issue (no git/github skills required)
 
-Open an issue from [here](https://github.com/cpp-lln-lab/CPP_LabGuide/issues/new/choose) and try to be the most detailed possible.
+Open an issue from [here](https://github.com/cpp-lln-lab/CPP_LabGuide/issues/new/choose).
 Try to be the most detailed possible, so it's easier to intervene.
 
 
