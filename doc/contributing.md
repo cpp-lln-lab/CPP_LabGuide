@@ -6,18 +6,17 @@ Here's a short guidelines on how to do so.
 
 
 ## Submit an issue (no git/github skills required)
-Open an issue from [here](https://github.com/cpp-lln-lab/CPP_LabGuide/issues/new/choose) and try to be the most detailed possible.
 
+Open an issue from [here](https://github.com/cpp-lln-lab/CPP_LabGuide/issues/new/choose) and try to be the most detailed possible.
 Try to be the most detailed possible, so it's easier to intervene.
 
-The actual text/scripts you find in this website are in this [repo](https://github.com/cpp-lln-lab/CPP_LabGuide) and in the `doc` folder [here](https://github.com/cpp-lln-lab/CPP_LabGuide/tree/main/doc)
 
 ## Make the changes yourself (minor git/github skills required)
 
-The actual text/scripts you find in this website are in this [repoistory](https://github.com/cpp-lln-lab/CPP_HPC) and in the `/doc` folder [here](https://github.com/cpp-lln-lab/CPP_HPC/tree/main/doc)
+The actual text/scripts you find in this website are in this [repoistory](https://github.com/cpp-lln-lab/CPP_LabGuide) and in the `/doc` folder [here](https://github.com/cpp-lln-lab/CPP_HPC/tree/main/doc).
 Each article/section of the website is a specific markdown (`.md`) file with (more or less) the same transparent name.
 
-If you're new to markdown, here's a quick [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
+If you're new to markdown, here's a quick [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/).
 
 
 ### Edit from github
@@ -33,6 +32,8 @@ To change the website structure (add, reorder, rename sections), see the file `m
 
 
 ### Edit locally
+
+If you're unfamiliar with the terms used here, check out the [git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 
 1. fork this repository
 2. clone your forked repository
