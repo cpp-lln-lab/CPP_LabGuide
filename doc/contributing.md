@@ -1,7 +1,7 @@
 # CONTRIBUTING
 
 This is a common effort, please contribute actively to this docs.
-If something is unclear, incorrenct, or incomplete; if something needs to be updated or if you found a new and cool feature, consider adding it yourself.
+If something is unclear, incorrect, or incomplete; if something needs to be updated or if you found a new and cool feature, consider adding it yourself.
 Here's a few guidelines on how to do so.
 
 
