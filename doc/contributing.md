@@ -13,7 +13,7 @@ Try to be the most detailed possible, so it's easier to intervene.
 
 ## Make the changes yourself (minor git/github skills required)
 
-The actual text/scripts you find in this website are in this [repoistory](https://github.com/cpp-lln-lab/CPP_LabGuide) and in the `/doc` folder [here](https://github.com/cpp-lln-lab/CPP_HPC/tree/main/doc).
+The actual text/scripts you find in this website are in this [repository](https://github.com/cpp-lln-lab/CPP_LabGuide) and in the `/doc` folder [here](https://github.com/cpp-lln-lab/CPP_HPC/tree/main/doc).
 Each article/section of the website is a specific markdown (`.md`) file with (more or less) the same transparent name.
 
 If you're new to markdown, here's a quick [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/).
