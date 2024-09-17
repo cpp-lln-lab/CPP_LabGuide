@@ -18,6 +18,8 @@ Each article/section of the website is a specific markdown (`.md`) file with (mo
 
 If you're new to markdown, here's a quick [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/).
 
+Before making any modification, remember that this guide is publicly accessible by anyone. If you want to add any potentially sensitive information (e.g. participants codes, passwords of shared accounts), consider making a private password-protected document that can be linked via the lab guide. If you're unsure about what to do or how to do, get in touch with the maintainers of the guide. 
+
 
 ### Edit from github
 
