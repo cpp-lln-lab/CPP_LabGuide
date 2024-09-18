@@ -61,6 +61,3 @@ markdown_extensions:
 plugins:
 - include-markdown
 - search
-- git-revision-date-localized:
-    type: datetime
-    timezone: Europe/Brussels
