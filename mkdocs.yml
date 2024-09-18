@@ -15,6 +15,7 @@ theme:
     accent: light blue
   features:
   - navigation.expand
+  - content.action.edit
 
 docs_dir: doc
 
@@ -59,3 +60,7 @@ markdown_extensions:
 
 plugins:
 - include-markdown
+- search
+- git-revision-date-localized:
+    type: datetime
+    timezone: Europe/Brussels
