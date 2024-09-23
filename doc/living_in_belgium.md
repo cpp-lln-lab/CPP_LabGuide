@@ -1,8 +1,6 @@
-# Living in Belgium 
-
+# Living in Belgium
 
 All sections will be divided into EU/Non-EU  
-
 
 ## Bank account
 Generally, Belgian banks require your Belgian ID card to create an account. But upon request and prior inquiry they can create an account using your passport (example, AXA bank). 
@@ -23,7 +21,6 @@ Every Year you will need to fill a tax declaration form and send it in usually b
 2 ways to go about it:
 1. By post ( you will receive the form + send back the completed form)  
 2. Online (MyMinfin.be)
-
 
 For logging in:
 you will need your belgian ID card/stay permit + your password for the card.
@@ -50,7 +47,6 @@ Once you login onto the website MyMinfin.be:
 
 
 ## Transportation
-
 
 ### Commute Brussels-Louvain-la-Neuve
 Try not to advance money when buying a subscription. First ask the UCL for the form to obtain the subscription and THEN buy it. Otherwise you might not get fully reimbursed.
@@ -132,7 +128,7 @@ Alternatives to UCLouvain accommodation:
 - https://www.placet.be/index.php/en/for-residents/accommodation  
 - https://www.caleglln.com/ (This place belongs to Dominican friars and they are welcoming to international students who need short-term/long-term accommodation) 
 
-### Gas, Electricity , water
+## Gas, Electricity , water
 
 ## Mobile and Internet
 
@@ -145,12 +141,12 @@ When you first enter Belgium you can buy a Base SIM by just  presenting your pas
                      Home Internet+Phone connection and internet+TV +landline  
 (getting this connection can take upto 2 weeks from the day of your first appointment/call +32 800 55 800(toll free))
 
-## For Non-EU
-### Visa: 
-[IMAGE]
+## Visa for Non-EU
+
+![visa permis uclouvain](./images/visa_permis_uclouvain.png)
 
 
-### Stay Permit
+## Stay Permit
 Information regarding stay permit (for stays more than 3 months/90 days) can be found here : https://www.commissioner.brussels/en/i-am-an-expat/residence-formalities/non-ue-citizen/79-residence-formalities-non-ue/85-more-than-90-days
 
 
@@ -180,6 +176,7 @@ Note: All information for making appointments will be listed on your commune's w
 https://dofi.ibz.be/fr/themes/ressortissants-dun-pays-tiers/etudes/annee-accordee-apres-les-etudes-pour-chercher-un-emploi
 
 ## Medical Information
+
 ### Emergency
 Any hospital with an Emergency department will be open 24 hours.  
 *Note: Not all hospitals in Belgium are open 24Hrs.*   
