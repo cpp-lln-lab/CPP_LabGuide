@@ -2,6 +2,8 @@
 
 
 All sections will be divided into EU/Non-EU  
+
+
 ## Bank account
 Generally, Belgian banks require your Belgian ID card to create an account. But upon request and prior inquiry they can create an account using your passport (example, AXA bank). 
 
@@ -53,10 +55,12 @@ Once you login onto the website MyMinfin.be:
 ### Commute Brussels-Louvain-la-Neuve
 Try not to advance money when buying a subscription. First ask the UCL for the form to obtain the subscription and THEN buy it. Otherwise you might not get fully reimbursed.
 
-You can ask [Veronique Vanhoegaerden](veronique.vanhoegaerden@uclouvain.be) from UCL. 
+You can ask Veronique Vanhoegaerden (veronique.vanhoegaerden@uclouvain.be) from UCL. 
 
 
-If you're FNRS, contact [Aurelie Volont](aurelie.volont@uclouvain.be) to ask for the subscription: "Following the agreements with SNCB, it was agreed that the UClouvain could issue the form for obtaining the SNCB subscription. This ensures that the amount does not have to be advanced, since the invoice is sent directly to the FNRS.In this case the subscription is 100% refunded as it is the system of the paying third part of which 80% by the FNRS and 20% by the state. 
+
+If you're FNRS, contact Aurelie Volont (aurelie.volont@uclouvain.be) to ask for the subscription: "Following the agreements with SNCB, it was agreed that the UClouvain could issue the form for obtaining the SNCB subscription. This ensures that the amount does not have to be advanced, since the invoice is sent directly to the FNRS.In this case the subscription is 100% refunded as it is the system of the paying third part of which 80% by the FNRS and 20% by the state. 
+
 If the subscription has already been contracted or is only for STIB or TEC, De Lijn, without SNCB then the FNRS only reimburses 80% on the basis of proof of purchase."
 
 ### Train (SNCB)
@@ -106,7 +110,8 @@ First of all, check the [UCLouvain webpage](https://uclouvain.be/en/study/logeme
 [http://koterasmus.be/](https://koterasmus.be/) This is a group of students that are living together and share the project of welcoming, gathering and helping exchange students coming on the campus of Louvain-la-Neuve.
 
 
-#### BRUSSELS
+### BRUSSELS
+
 The easiest neighbourhoods in Brussels to reach LLN by train are in the south-east part of the city (Ixelles/Etterbeek/Schuman).  
 There is also a bus (E11) going from Delta (neighborhood Auderghem/watermael-Boitsfort) to LLN in 35min  
 Or a bus (E12) going from Woluwé (Roodebeek/Stockel/Alma) to LLN in 30min. 
@@ -141,6 +146,8 @@ When you first enter Belgium you can buy a Base SIM by just  presenting your pas
 ## For Non-EU
 ### Visa: 
 [IMAGE]
+
+
 ### Stay Permit
 Information regarding stay permit (for stays more than 3 months/90 days) can be found here : https://www.commissioner.brussels/en/i-am-an-expat/residence-formalities/non-ue-citizen/79-residence-formalities-non-ue/85-more-than-90-days
 
