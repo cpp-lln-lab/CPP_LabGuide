@@ -77,7 +77,8 @@ For people who are under 26, there is a Youth Ticket, which allows you to travel
 > **If you are coming in the summer period,** which starts from 1st July to 1st September, you can buy a monthly ticket allowing you unlimited traveling anywhere in Belgium for €35. 
 **If you are coming in the school period,** [check here](https://www.belgiantrain.be/en/tickets-and-railcards/students-season-ticket?gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH533KqgF9h_90dvp1wqSWvkr6ggtlO0l9oBvZkPwpbwrhGYfrkMBKB8aAhS3EALw_wcB). 
 
-### BUS (TEC)
+### BUS [TEC](https://www.letec.be/#/)
+
 
 There is a direct bus from Etterbeek station and Roodebeek Station. 
 
