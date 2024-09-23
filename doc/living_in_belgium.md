@@ -63,7 +63,8 @@ If you're FNRS, contact Aurelie Volont (aurelie.volont@uclouvain.be) to ask for 
 
 If the subscription has already been contracted or is only for STIB or TEC, De Lijn, without SNCB then the FNRS only reimburses 80% on the basis of proof of purchase."
 
-### Train (SNCB)
+### Train [SNCB](https://www.belgiantrain.be/en)
+
 The direct train from Brussels to LLN passes in these train stations: Midi, Centrale, Nord, Schuman, Luxembourg, Etterbeek.
 
 > [!WARNING]
