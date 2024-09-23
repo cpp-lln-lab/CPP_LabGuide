@@ -1,4 +1,6 @@
 # Living in Belgium 
+
+
 All sections will be divided into EU/Non-EU  
 ## Bank account
 Generally, Belgian banks require your Belgian ID card to create an account. But upon request and prior inquiry they can create an account using your passport (example, AXA bank). 
