@@ -7,7 +7,7 @@ Normally, you are automatically added to all the following lists, or it's a huma
 If that is not the case and you hear lab members talk about events you are not aware of, here's a list of mailing lists and who to contact to be added
 
 ### CPP_LLN mailing list
-- for anything lab-related
+- for lab-related information: lab meetings, grants, interesting talks and events, general communications. This email list is a google group, meaning that a message sent to this account will be sent to anyone in the list 
 - contact any CPP member 
 
 ### Communaute-ipsy
