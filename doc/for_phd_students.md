@@ -13,7 +13,8 @@ Before enrolling in a course, you might want to double-check the prerequisites f
 
 **Careful**: some courses have a limit for attendance and you might want to enrol in time. 
 
-# Credits
+## Credits
+
 
 you can find English-version forms for annual meetings, mid-term evaluation and credit validation [here](https://uclouvain.be/en/faculties/psp/formulaires-informations-pratiques.html).
 
