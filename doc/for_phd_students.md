@@ -29,7 +29,8 @@ Each doctoral student in IPSY has a thesis budget to cover some of the expenses 
 
 There is indeed an envelope of 881 € per PhD student which will be distributed/used as follows: 
 
-> 250 €: Maximum lump sum paid by the faculty for printing. This amount has been calculated to cover the printing of copies for a jury. No expenses above this budget will be reimbursed by the faculty. You can choose where to print. For instance, for approx. 200 pages, with 30 in colours, CIACO charges 35 EUR per copy. FACOPY 17 EUR.
+* 250 €: Maximum lump sum paid by the faculty for printing. This amount has been calculated to cover the printing of copies for a jury. No expenses above this budget will be reimbursed by the faculty. You can choose where to print. For instance, for approx. 200 pages, with 30 in colours, CIACO charges 35 EUR per copy. FACOPY 17 EUR.
+
 > 150 €: Maximum amount for the organisation of the drink after the public defence. You can buy your own drinks/chips or ask Siegrid to take care of it.
 
 No expenses above this budget will be reimbursed by the faculty. 
