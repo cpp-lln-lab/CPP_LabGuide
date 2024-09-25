@@ -24,7 +24,8 @@ you can find English-version forms for annual meetings, mid-term evaluation and 
 
 Each doctoral student in IPSY has a thesis budget to cover some of the expenses (according to certain rules).
 
-## Rules as of June 2023:
+### Rules as of June 2023:
+
 
 There is indeed an envelope of 881 € per PhD student which will be distributed/used as follows: 
 
