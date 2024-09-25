@@ -46,7 +46,8 @@ The doctoral student must pay particular attention to the following guidelines:
 * The IPSY Secretary 
 
 ### Budget, reimbursements, balance and amounts available 
-> The CLC IPSY manager, my colleague Mr Achraf TSSICHE 
+* The CLC IPSY manager, my colleague Mr Achraf TSSICHE 
+
 ### Format, layout, etc. 
 * The IPSY Editorial Assistant, my colleague Marianne BOURGUIGNON marianne.bourguignon@uclouvain.be
 
