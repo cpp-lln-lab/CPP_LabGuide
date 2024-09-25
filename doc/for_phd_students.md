@@ -6,7 +6,8 @@ Some of the courses available can be found here:
 
 The statistics unit also provides some courses:
 
-[training courses in multiple statistical methods](https://sites.uclouvain.be/training/smcs/index.php?page=services&spage=formation&l=fr)
+* [training courses in multiple statistical methods](https://sites.uclouvain.be/training/smcs/index.php?page=services&spage=formation&l=fr)
+
 
 Before enrolling in a course, you might want to double-check the prerequisites for the courses/credits with your doctoral school and the person of reference (for Psychological Sciences: Martine Janssens, for Biomedical School: Sandrin Wollanders).
 
