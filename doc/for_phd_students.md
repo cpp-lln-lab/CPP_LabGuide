@@ -1,7 +1,8 @@
 # Classes
 Some of the courses available can be found here:
 
-[Thematic Doctoral School (EDT) in PSYChological Sciences and EDUCATIONation](https://uclouvain.be/fr/facultes/psp/psyceduc.html)
+* [Thematic Doctoral School (EDT) in PSYChological Sciences and EDUCATIONation](https://uclouvain.be/fr/facultes/psp/psyceduc.html)
+
 
 The statistics unit also provides some courses:
 
