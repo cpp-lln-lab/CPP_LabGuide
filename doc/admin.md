@@ -3,9 +3,10 @@
 * Siegrid Vanderveken - Secretary for our departement
 * Roland Jaumain - Printers, buying computers
 * Isabelle Legrain [UCLouvain page](https://uclouvain.be/fr/repertoires/isabelle.legrain) - Financial secretary
-isabelle.legrain@uclouvain.be
-Place Cardinal Mercier 10 bte L3.05.01 – B1348 Louvain-la-Neuve
-Tél. +32 (010)47 82 56 - Bureau D120
+
+> isabelle.legrain@uclouvain.be
+> Place Cardinal Mercier 10 bte L3.05.01 – B1348 Louvain-la-Neuve
+> Tél. +32 (010)47 82 56 - Bureau D120
 
 * Nadine Fraselles
 * Lorraine Jacobs
