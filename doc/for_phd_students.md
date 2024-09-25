@@ -43,7 +43,8 @@ The balance of the "thesis" budget can be used for :
 > printing the draft thesis, sending the thesis to the jury members, etc.
 The doctoral student must pay particular attention to the following guidelines: 
 ### Practical organisation: travel of a jury member, travel, etc. 
-> The IPSY Secretary 
+* The IPSY Secretary 
+
 ### Budget, reimbursements, balance and amounts available 
 > The CLC IPSY manager, my colleague Mr Achraf TSSICHE 
 ### Format, layout, etc. 
