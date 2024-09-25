@@ -63,16 +63,16 @@ If the subscription has already been contracted or is only for STIB or TEC, De L
 
 The direct train from Brussels to LLN passes in these train stations: Midi, Centrale, Nord, Schuman, Luxembourg, Etterbeek.
 
-> [!WARNING]
-> Delays and platform changes can happen frequently so always check the SNCB app while traveling
+!!! WARNING
+      Delays and platform changes can happen frequently so always check the SNCB app while traveling
 
 
 #### Train Tickets for under the age of 26
 For people who are under 26, there is a Youth Ticket, which allows you to travel anywhere in Belgium for €7.50 per journey. But be careful that it is economical for only long distances, like going to Bruges from Louvain-la-neuve. For short distances, standart ticket may be more economical than the youth ticket. 
 
-> [!NOTE]
-> **If you are coming in the summer period,** which starts from 1st July to 1st September, you can buy a monthly ticket allowing you unlimited traveling anywhere in Belgium for €35. 
-**If you are coming in the school period,** [check here](https://www.belgiantrain.be/en/tickets-and-railcards/students-season-ticket?gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH533KqgF9h_90dvp1wqSWvkr6ggtlO0l9oBvZkPwpbwrhGYfrkMBKB8aAhS3EALw_wcB). 
+!!! NOTE
+      * **If you are coming in the summer period,** which starts from 1st July to 1st September, you can buy a monthly ticket allowing you unlimited traveling anywhere in Belgium for €35. 
+      * **If you are coming in the school period,** [check here](https://www.belgiantrain.be/en/tickets-and-railcards/students-season-ticket?gad_source=1&gclid=Cj0KCQjwurS3BhCGARIsADdUH533KqgF9h_90dvp1wqSWvkr6ggtlO0l9oBvZkPwpbwrhGYfrkMBKB8aAhS3EALw_wcB). 
 
 ### BUS [TEC](https://www.letec.be/#/)
 
