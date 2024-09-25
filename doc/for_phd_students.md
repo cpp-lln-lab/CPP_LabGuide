@@ -29,7 +29,9 @@ There is indeed an envelope of 881 € per PhD student which will be distributed
 
 No expenses above this budget will be reimbursed by the faculty. 
 Any balance will be paid by the doctoral student; 
+
 The balance of the "thesis" budget can be used for :
+
 > Possible travel of jury members 
 > reservation of train, plane, hotel, etc. 
 > printing the draft thesis, sending the thesis to the jury members, etc.
