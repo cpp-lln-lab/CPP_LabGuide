@@ -16,7 +16,7 @@ If that is not the case and you hear lab members talk about events you are not a
 
 ### Neurocs-Ipsy (deprected)
 
-#### IoNS members
+### IoNS members
 - to be in the loop of events in IoNS (Institute of Neuroscience in Woluwe)
 - contact Cathy Friand
 
