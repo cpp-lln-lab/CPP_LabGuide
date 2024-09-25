@@ -43,7 +43,8 @@ The balance of the "thesis" budget can be used for :
 
 > Possible travel of jury members 
 > reservation of train, plane, hotel, etc. 
-> printing the draft thesis, sending the thesis to the jury members, etc.
+* printing the draft thesis, sending the thesis to the jury members, etc.
+
 The doctoral student must pay particular attention to the following guidelines: 
 ### Practical organisation: travel of a jury member, travel, etc. 
 * The IPSY Secretary 
