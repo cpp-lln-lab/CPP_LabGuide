@@ -20,7 +20,7 @@ If that is not the case and you hear lab members talk about events you are not a
 - to be in the loop of events in IoNS (Institute of Neuroscience in Woluwe)
 - contact Cathy Friand
 
-### Setup Gmail labels
+!!! TIP
 If you want to have emails from the CPP_LLN mailing list clearly marked in your PRIMARY tab on GMail (and potentially other email platforms too), follow these simple steps: 
 
 - create a label (e.g. CPP_LLN or CPP_LLN_group)
