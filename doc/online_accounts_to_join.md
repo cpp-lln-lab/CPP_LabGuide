@@ -20,21 +20,24 @@ If that is not the case and you hear lab members talk about events you are not a
 - to be in the loop of events in IoNS (Institute of Neuroscience in Woluwe)
 - contact Cathy Friand
 
+
 !!! TIP
-**Setup Gmail labels**
+    **Setup Gmail labels**
 
-If you want to have emails from the CPP_LLN mailing list clearly marked in your PRIMARY tab on GMail (and potentially other email platforms too), follow these simple steps: 
+    If you want to have emails from the CPP_LLN mailing list clearly marked in your PRIMARY tab on GMail (and potentially other email platforms too), follow these simple steps: 
 
-- create a label (e.g. CPP_LLN or CPP_LLN_group)
-- go to your global gmail settings (cog wheel, upper right) > See all settings > Filters and blocked addresses
-- create a new filter (bottom of the page) 
-  * to: cpp_lln@googlegroups.com 
-  * from: oli.collignon@gmail.com
-- create filter > choose "Apply to the label" and select CPP Lab, and "Categorise as: Primary" (see example)
-![gmail labels settings](./images/gmail_labels_settings.png) 
+    - create a label (e.g. CPP_LLN or CPP_LLN_group)
+    - go to your global gmail settings (cog wheel, upper right) > See all settings > Filters and blocked addresses
+    - create a new filter (bottom of the page) 
+      * to: cpp_lln@googlegroups.com 
+      * from: oli.collignon@gmail.com
+    - create filter > choose "Apply to the label" and select CPP Lab, and "Categorise as: Primary" (see example)
 
-This would be an exemplary result with lab-related information marked with a pretty label, always on your primary tab:
-![gmail labels view](./images/gmail_labels_view.png) 
+    ![gmail labels settings](./images/gmail_labels_settings.png) 
+
+    This would be an exemplary result with lab-related information marked with a pretty label, always on your primary tab:
+
+    ![gmail labels view](./images/gmail_labels_view.png) 
 
 
 ## Github
