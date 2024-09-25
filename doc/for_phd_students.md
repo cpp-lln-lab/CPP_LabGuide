@@ -19,7 +19,8 @@ Before enrolling in a course, you might want to double-check the prerequisites f
 you can find English-version forms for annual meetings, mid-term evaluation and credit validation [here](https://uclouvain.be/en/faculties/psp/formulaires-informations-pratiques.html).
 
 
-# Defending the PhD (IPSY rules)
+## Defending the PhD (IPSY rules)
+
 
 Each doctoral student in IPSY has a thesis budget to cover some of the expenses (according to certain rules).
 
