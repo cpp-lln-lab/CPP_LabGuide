@@ -14,7 +14,7 @@ If that is not the case and you hear lab members talk about events you are not a
 - to be informed about the seminars / talks / events in our department in LLN
 - contact Nadine Fraselle
 
-#### Neurocs-Ipsy (deprected)
+### Neurocs-Ipsy (deprected)
 
 #### IoNS members
 - to be in the loop of events in IoNS (Institute of Neuroscience in Woluwe)
