@@ -6,7 +6,7 @@ Here is an overview of means of communications that you should be part of.
 Normally, you are automatically added to all the following lists, or it's a human process that can require a few days. 
 If that is not the case and you hear lab members talk about events you are not aware of, here's a list of mailing lists and who to contact to be added
 
-#### CPP_LLN mailing list
+### CPP_LLN mailing list
 - for anything lab-related
 - contact any CPP member 
 
