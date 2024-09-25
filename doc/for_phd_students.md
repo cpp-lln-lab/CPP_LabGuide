@@ -28,7 +28,9 @@ There is indeed an envelope of 881 € per PhD student which will be distributed
 > 150 €: Maximum amount for the organisation of the drink after the public defence. You can buy your own drinks/chips or ask Siegrid to take care of it.
 
 No expenses above this budget will be reimbursed by the faculty. 
+
 Any balance will be paid by the doctoral student; 
+
 
 The balance of the "thesis" budget can be used for :
 
