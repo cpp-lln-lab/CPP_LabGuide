@@ -10,7 +10,7 @@ If that is not the case and you hear lab members talk about events you are not a
 - for anything lab-related
 - contact any CPP member 
 
-#### Communaute-ipsy
+### Communaute-ipsy
 - to be informed about the seminars / talks / events in our department in LLN
 - contact Nadine Fraselle
 
