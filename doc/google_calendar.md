@@ -12,3 +12,4 @@
 [CPP-LAB : meetings](https://calendar.google.com/calendar/u/0?cid=YTIxZDdmZGJlMTI1ZWJiNWFjNWQ3ZjEyMGM2ZTllMTkyNzQ2MGQzZmQxMmEzMDY4MjMxOTA2NTZiYmVhM2JiYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) → to know when are Olivier’s availabilities
 
 [fMRI booking](https://calendar.google.com/calendar/u/0?cid=Y2hzMWE0M3ZjYmxqazlqbjBuMzVnNXJoa3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) → to share our bookings with other CPP-StLuc-MRI-users, in case of needed help or facilitate last minute hours takeover
+
