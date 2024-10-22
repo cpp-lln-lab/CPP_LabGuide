@@ -3,4 +3,4 @@ If you want information about a computer or iMac in the lab, please consult this
 
 It is good practice to create your own account on the computer in order not to install on the same account a different version of Matlab Tools.
 
-All iMacs have an **admin** account, password : **CPP**.
+All iMacs have an **admin** account. Ask a lab member for the password.
