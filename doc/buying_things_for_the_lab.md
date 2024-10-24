@@ -5,7 +5,8 @@
 
 
 - Step 1: Before proceeding, discuss your computer needs and financial options with Olivier.
-- Step 2: Choose your desired specifications and options from the appropriate website (e.g., Apple).
+- Step 2: Choose your desired specifications and options from the appropriate website (e.g., Apple). It is also good to ask your lab mates what specs could be important not to overlook.
+
 - Step 3: Save a PDF of the detailed quote or invoice (with all specifications) and send it to Roland Jaumain (roland.jaumain@uclouvain.be). He will look for available university discounts and provide a final invoice to you and Olivier.
 - Step 4: After acceptance, upload the final invoice to the Lab Drive folder under Main/Computers/Computers, to keep track of all computer purchases.  
 Take into account that after purchase, the **delivery can take 5 to 8 weeks**.
