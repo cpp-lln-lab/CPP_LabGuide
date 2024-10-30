@@ -42,3 +42,35 @@ should submit one month before the conference.
 
 ### WBI
 
+### PhDs
+
+### Post-docs
+
+### Others
+neurocs
+
+social
+
+education
+
+IONS
+
+cemo
+
+cosy
+
+IPSY covers the cost (travel and accommodation - max 500€) to invite a researcher in the institute, if we organise an IPSY seminar.
+
+[Link to request for a seminar](https://intranet.uclouvain.be/fr/myucl/instituts-recherche/ipsy/formulaire-de-demande-d-indemnisation-pour-l-organisation-d-un-seminaire-0.html)
+
+[Regulations for this](https://myalfresco.uclouvain.be/alfresco/service/ucl/streamDownload/workspace/SpacesStore/562d371b-5a8f-4160-8c6f-bb95034bf35f/R%C3%A8glement%20attribution%20subvention%20s%C3%A9minaire_IPSY.pdf)
+
+Contact person : N.F
+
+### Reimbursement Conference/Other “Note de Frais”
+
+[See this doc for grants and reimbursement](https://docs.google.com/document/d/1ywwzlIhJvgMxXYCsDlkh61XJhQb8iqDqRmQGrsT1iRI/edit?usp=sharing)
+
+Asking reimbursement for year X needs to be done before the end of january year X+1. 
+
+Reimbursements must be done online through your MyUcl. For adding the “Note de frais” widget see here and for how to open a request see here. For any problem contact I.L.
