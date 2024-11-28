@@ -3,7 +3,8 @@
 [More ideas here](https://intranet.uclouvain.be/en/myucl/administrations/adre/research-funding-opportunities.html)
 
 
-Contact person at UCL can help a lot: A.D.
+Contact person at UCL can help a lot: Anouk Distelman
+
 
 Credits / money for PhD students is rolled over from one year to the next
 
@@ -11,18 +12,14 @@ Credits / money for PhD students is rolled over from one year to the next
 
 ### FNRS
 
-
-2 months in advance for within EU, 3 months for outside EU
-
-
-**don’t need to be FNRS to apply**
-
-
-Provide max. 2 conference grants per institute
+- 2 months in advance for within EU, 3 months for outside EU
+- **don’t need to be FNRS to apply**
+- Provide max. 2 conference grants per institute
 
 [FNRS Mobilité](https://www.frs-fnrs.be/fr/financements/mobilite-monde)
 
 **PLEASE NOTE they deadline is very strict! No possibility to apply if you miss the deadline**
+
 
 ### IPSY
 
