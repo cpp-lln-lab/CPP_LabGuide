@@ -47,30 +47,31 @@ should submit one month before the conference.
 ### Post-docs
 
 ### Others
-neurocs
+- neurocs
+- social
+- education
+- IONS
+- cemo
+- cosy
 
-social
 
-education
-
-IONS
-
-cemo
-
-cosy
-
+### Inviting people
 IPSY covers the cost (travel and accommodation - max 500€) to invite a researcher in the institute, if we organise an IPSY seminar.
 
 [Link to request for a seminar](https://intranet.uclouvain.be/fr/myucl/instituts-recherche/ipsy/formulaire-de-demande-d-indemnisation-pour-l-organisation-d-un-seminaire-0.html)
 
-[Regulations for this](https://myalfresco.uclouvain.be/alfresco/service/ucl/streamDownload/workspace/SpacesStore/562d371b-5a8f-4160-8c6f-bb95034bf35f/R%C3%A8glement%20attribution%20subvention%20s%C3%A9minaire_IPSY.pdf)
+[Regulations for this](https://uclouvain.sharepoint.com/sites/ipsy/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2Fipsy%2FDocuments%20partages%2FEntrep%C3%B4t%20Web%20IPSY%2FR%C3%A8glement%20attribution%20subvention%20s%C3%A9minaire%20IPSY%20%282%29%2Epdf&parent=%2Fsites%2Fipsy%2FDocuments%20partages%2FEntrep%C3%B4t%20Web%20IPSY)
 
-Contact person : N.F
+
+Contact person : Nadine Fraselle
+
 
 ### Reimbursement Conference/Other “Note de Frais”
 
 [See this doc for grants and reimbursement](https://docs.google.com/document/d/1ywwzlIhJvgMxXYCsDlkh61XJhQb8iqDqRmQGrsT1iRI/edit?usp=sharing)
 
+
 Asking reimbursement for year X needs to be done before the end of january year X+1. 
 
-Reimbursements must be done online through your MyUcl. For adding the “Note de frais” widget see here and for how to open a request see here. For any problem contact I.L.
+Reimbursements must be done online through your MyUcl. For adding the “Note de frais” widget see [here](https://myalfresco.uclouvain.be/alfresco/service/ucl/streamDownload/workspace/SpacesStore/5787be5d-26de-404d-bbed-529b48bad96d/QUICK%20START%20GUIDE%20Widget%20SAP%20Finance_english%20version.pdf) and for how to open a request see here. For any problem contact Isabelle Legrain
+
