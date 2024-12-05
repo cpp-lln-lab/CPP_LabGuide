@@ -15,4 +15,4 @@ Each person is invited to present for ~10 minutes 1 slide and the main goal is t
 
 ## Method meeting
 
-A method meeting does not necessarily happen during the LM schedule, it is called by someone who wants to discuss a specific topic that can be of interest for everyone or only a part of the lab (e.g. a softer package, fMRI analysis, running a tutorial on how to use data management). Attending a method meeting is usually not mandatory if the topic is not of your interest.
+A method meeting does not necessarily happen during the Lab Meeting (LM) schedule. It is called by someone who wants to discuss a specific topic that can be of interest for everyone or only a part of the lab (e.g. a software package, fMRI analysis, running a tutorial on how to use data management). Attending a method meeting is usually not mandatory if the topic is not of your interest.
