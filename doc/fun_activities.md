@@ -37,7 +37,9 @@
 - [Cinematek](http://cinematek.be/)
 ## Theaters 
 - [Atelier Théâtre Jean Vilar](http://www.atjv.be)
+
 ## Sports 
+
 - Sport centre in LLN, with different options according to your [position](https://www.uclouvain.be/affiliationsport-lln.html)
 - [Swimming pool](http://www.csblocry.be/st/piscines2.php)
 - 50euro membership and having access to all courses in LLN
