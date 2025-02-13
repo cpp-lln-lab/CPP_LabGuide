@@ -1,5 +1,7 @@
 ## Restaurants
+
 ### University 
+
 - [University restaurant](https://uclouvain.be/fr/decouvrir/resto-u/le-sablon-self.html )
 ### Typical Belgian restaurants:
 - [Bugatti](http://www.lebugatti.be)
