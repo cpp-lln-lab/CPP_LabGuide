@@ -31,7 +31,9 @@ If you are looking for a French course here are some option:
 ## Cafes
 - [Fika](https://www.facebook.com/fikabrussels/)
 - Leopold cafes
+
 ## Cinema
+
 - [Cinema Cinescope](https://www.cinescope.be)
 - [Cinematek](http://cinematek.be/)
 ## Theaters 
