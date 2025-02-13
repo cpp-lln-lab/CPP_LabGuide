@@ -2,7 +2,8 @@
 ## Wifi
 To connect to the eduroam network : you can use your uclouvain address as identification and your UCLouvain password.
 ## Getting your UCLouvain email address (for external grants)
-If you are not directly paid by the university or a grant associated to it (eg. FNRS), so for instance if you are a WBI grant holder, you might need to set up your UCLouvain email adress yourself. To do so you first need to be registered as an invited researcher by the GECO (https://uclouvain.be/fr/repertoires/entites/geco). You can contact Santina Bongiovanni santina.bongiovanni@uclouvain.be . They should give you your FGS number (“n° de matricule FGS” in French). You can then enter your FGS number as well as your birth date at this link https://sites.uclouvain.be/sgsi-apps/newaccount/prod/index.php?main=depart&stvl=en and that will give you your email address ! 
+If you are not directly paid by the university or a grant associated to it (eg. FNRS), so for instance if you are a WBI grant holder, you might need to set up your UCLouvain email adress yourself. To do so you first need to be registered as an invited researcher by the [GECO](https://uclouvain.be/fr/repertoires/entites/geco). You can contact Santina Bongiovanni santina.bongiovanni@uclouvain.be . They should give you your FGS number (“n° de matricule FGS” in French). You can then enter your FGS number as well as your birth date at this link https://sites.uclouvain.be/sgsi-apps/newaccount/prod/index.php?main=depart&stvl=en and that will give you your email address ! 
+
 ## Printer setup
 ## Keys + access card 
 ## Book a room at UcL
@@ -19,15 +20,7 @@ https://intranet.uclouvain.be/fr/myucl/services-informatiques/vpn.html
 ## Matlab license for experimental computers
 If you are working with an experimental computer to provide stimulation and you need a matlab license (there are no “alternatives” as for le Poulpe’s computer), there are several options. 
 1. Use the online matlab license provided by IPSY - through the UDS platform. 
-2. Matlab license from Switzerland (free - but limited number of licenses?) 
-We can use the matlab license provided by Olivier via his affiliation with Switzerland - The Sense ?
-To do so : 
-Follow this [link](https://it.mathworks.com/academia/tah-portal/haute-ecole-specialisee-de-suisse-occidentale-40677125.html) 
-Sign in with Olivier’s Mathwork credentials : 
-username : olivier.collignon@hevs.ch
-password : Ask Olivier for the password
-From there, download the last version on your computer (or use matlab online). You will need to provide the credentials again during installation. 
+2. Matlab license from other Olivier's affiliation ask Olivier
 3. Buy a Matlab license from UCLouvain - 100€/year/license.
 To introduce a request, follow this link and connect with UCLouvain credentials : 
 https://uclouvain.atlassian.net/servicedesk/customer/portal/3/create/65
-4. (NOT WORKING : License from UniTrento - Olivier’s permissions have changed.)
