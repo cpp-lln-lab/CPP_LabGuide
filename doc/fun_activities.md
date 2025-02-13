@@ -10,7 +10,8 @@
 - [Le chou de bruxelles](http://www.restaurantlechoudebruxelles.com)
 - [Le petite Belge](http://www.restaurant-petit-belge.be)
 - [Le clan des belges](http://www.leclandesbelges.com)
--	[La fin de siécle](https://www.tripadvisor.it/Restaurant_Review-g188644-d1852850-Reviews-Fin_de_Siecle-Brussels.html)
+- [La fin de siécle](https://www.tripadvisor.it/Restaurant_Review-g188644-d1852850-Reviews-Fin_de_Siecle-Brussels.html)
+
 - [9 et voisins](https://www.tripadvisor.it/Restaurant_Review-g188644-d1065574-Reviews-9_et_Voisins-Brussels.html)
 
 - [Le brassin](http://www.lesbrassins.com/en)
