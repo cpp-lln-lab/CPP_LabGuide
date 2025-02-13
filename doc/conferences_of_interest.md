@@ -6,7 +6,7 @@ You might wanna consider getting extra insurance when travelling to some countri
 
 Here's a non-exhaustive list of the main conferences that can interest most lab members. Since we all have different topics, don't hesitate to suggest new ones.
 
-#### OHBM
+### OHBM
 Meeting of the Organization fro Human Brain Mapping. 
 MRI, EEG, methods, awsome open science sessions, satellite workshops & (usually) a hackathon
 
