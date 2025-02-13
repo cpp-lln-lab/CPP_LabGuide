@@ -26,8 +26,6 @@
 - Saravanaa Bhavan Rue Jourdan 10, 1060 Saint-Gilles -(the only authentic south indian)
 - El Turco (open buffet, Luxembourg neighbourhood, very good Turkish food) https://elturco.be/ 
 - Mili Ixelles: Chau. de Boondael 3561050 Ixelles (authentic Chinese food, especially for spicy food) https://miliixelles.eatbu.com/?lang=en#
->> add the CPP-map link here
->> add the LLN facility map link (what is where)
 ## Cafes
 - [Fika](https://www.facebook.com/fikabrussels/)
 - Leopold cafes
