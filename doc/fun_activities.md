@@ -3,7 +3,9 @@
 ### University 
 
 - [University restaurant](https://uclouvain.be/fr/decouvrir/resto-u/le-sablon-self.html )
+
 ### Typical Belgian restaurants:
+
 - [Bugatti](http://www.lebugatti.be)
 - [Le chou de bruxelles](http://www.restaurantlechoudebruxelles.com)
 - [Le petite Belge](http://www.restaurant-petit-belge.be)
