@@ -13,7 +13,9 @@
 -	[La fin de siécle](https://www.tripadvisor.it/Restaurant_Review-g188644-d1852850-Reviews-Fin_de_Siecle-Brussels.html)
 -	[9 et voisins](https://www.tripadvisor.it/Restaurant_Review-g188644-d1065574-Reviews-9_et_Voisins-Brussels.html)
 -	[Le brassin](http://www.lesbrassins.com/en)
+
 ### Not Belgian restaurants
+
 - [Paolo’s Idea](http://www.paolosidea.com) (Italian)-it's good again! 
 - [La bottega della pizza](https://www.facebook.com/Pizzeria-La-Bottega-Della-Pizza-403460962473/) (Italian)
 - [Ouzerie Mezedopolio](http://www.restaurant-grec-ixelles.be/#restaurant-ouzerie-grecque) (greek)
