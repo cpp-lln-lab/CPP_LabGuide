@@ -1,4 +1,5 @@
-# Lab meetings (person in charge: Eleonore Giraudet)
+# Lab meetings 
+(person in charge: Eleonore Giraudet)
 
 ## Regular lab meeting
 
