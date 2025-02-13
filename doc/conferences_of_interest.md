@@ -14,7 +14,7 @@ MRI, EEG, methods, awsome open science sessions, satellite workshops & (usually)
 Vision Sciences Society (https://www.visionsciences.org/)
 Large US-based conference on all kinds of vision. 
 
-#### IMRF
+### IMRF
 International Multisensory Research Forum 
 
 #### ECVP
