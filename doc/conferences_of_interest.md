@@ -10,7 +10,7 @@ Here's a non-exhaustive list of the main conferences that can interest most lab 
 Meeting of the Organization fro Human Brain Mapping. 
 MRI, EEG, methods, awsome open science sessions, satellite workshops & (usually) a hackathon
 
-#### VSS
+### VSS
 Vision Sciences Society (https://www.visionsciences.org/)
 Large US-based conference on all kinds of vision. 
 
