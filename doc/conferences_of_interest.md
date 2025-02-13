@@ -17,5 +17,5 @@ Large US-based conference on all kinds of vision.
 ### IMRF
 International Multisensory Research Forum 
 
-#### ECVP
+### ECVP
 European Conference on Visual Perception
