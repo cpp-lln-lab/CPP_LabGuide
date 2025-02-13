@@ -37,7 +37,9 @@
 
 - [Cinema Cinescope](https://www.cinescope.be)
 - [Cinematek](http://cinematek.be/)
+
 ## Theaters 
+
 - [Atelier Théâtre Jean Vilar](http://www.atjv.be)
 
 ## Sports 
