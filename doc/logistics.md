@@ -11,7 +11,8 @@ Follow this link: https://sites.uclouvain.be/reservation-psp/week_all.php?area=4
 For a room, select “Salles de réunions” in the left panel.
 For audiovisual equipment, select “Audiovisuel & informatique” in the left panel. 
 Then click on the day and time you want to book, confirm the booking. You will receive a confirmation by email. 
-[code of rooms](https://uclouvain.sharepoint.com/:w:/r/sites/ipsy/_layouts/15/Doc.aspx?sourcedoc=%7BFC939836-CAE6-4444-B0F4-3CDF28EAC4B7%7D&file=Codes%20portes.docx&action=default&mobileredirect=true)
+[code of rooms](https://docs.google.com/spreadsheets/d/1noz9ahlZZbodrDXmA0WsKUirx_jSje9D/edit?usp=sharing&ouid=108196860902997612702&rtpof=true&sd=true)
+
 
 ## Connect to UCLouvain network with a VPN
 This is useful if you are not working inside UCLouvain internet network and you need to e.g. access not open access articles and/or ssh to a computer of the lab or the CECI clusters.
