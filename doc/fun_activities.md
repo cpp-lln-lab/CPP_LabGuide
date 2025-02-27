@@ -25,8 +25,8 @@
 - [Makisu](https://www.makisu.be/) (Sushi) the one is Flandre is best
 - [Sushi Box](http://www.sushibox.be/) (Sushi)
 - Saravanaa Bhavan Rue Jourdan 10, 1060 Saint-Gilles -(the only authentic south indian)
-- El Turco (open buffet, Luxembourg neighbourhood, very good Turkish food) https://elturco.be/ 
-- Mili Ixelles: Chau. de Boondael 3561050 Ixelles (authentic Chinese food, especially for spicy food) https://miliixelles.eatbu.com/?lang=en#
+- [El Turco](https://elturco.be/ ) (open buffet, Luxembourg neighbourhood, very good Turkish food) 
+- [Mili Ixelles](https://miliixelles.eatbu.com/?lang=en#): Chau. de Boondael 3561050 Ixelles (authentic Chinese food, especially for spicy food) 
 
 ## Cafes
 
@@ -44,6 +44,6 @@
 
 ## Sports 
 
-- Sport centre in LLN, with different options according to your [position](https://www.uclouvain.be/affiliationsport-lln.html)
-- [Swimming pool](http://www.csblocry.be/st/piscines2.php)
-- 50euro membership and having access to all courses in LLN
+- Sport centre in LLN, with different options according to your [position](https://www.uclouvain.be/fr/sport/le-passsports-uclouvain)
+- [Swimming pool](https://csblocry.be/piscines/)
+- 60 euro membership and having access to all courses in LLN
