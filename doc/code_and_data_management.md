@@ -49,7 +49,8 @@ https://github.com/cpp-lln-lab/eeg_bids_conversion
 
 # Other back ups
 
-## _IONS cloud storage_
+### IONS cloud storage
+
 
 http://sss-intranet.icp.ucl.ac.be/wiki/index.php/Storage_access#Groups
 
