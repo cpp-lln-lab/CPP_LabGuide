@@ -30,7 +30,8 @@ Data:
 Dataset summary (put together all the bidsified raw and derivatives repos of the lab and summarize metadata in a table)  https://cpp-lln-lab.github.io/Datasets/
 repo to edit it: https://github.com/cpp-lln-lab/Datasets
 
-main organization for “stuctured: data saving and conversion control and sharing with “raw” (bidsifield ) and “derivatives” and “source” repos: https://gin.g-node.org/cpp-lln-lab
+main organization for "structured": data saving and conversion control and sharing with “raw” (bidsifield) and “derivatives” and “source” repos: https://gin.g-node.org/cpp-lln-lab
+
 
 Guidelines to maintain the CPP dataset https://github.com/cpp-lln-lab/dataset_maintenance
 
