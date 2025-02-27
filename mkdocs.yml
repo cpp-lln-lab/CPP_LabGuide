@@ -7,7 +7,7 @@ edit_uri: ./edit/main/docs/
 # docs_dir: alternative_path # docs/ is the default folder
 copyright: MIT
 
-# This will use Material them
+# This will use material them
 theme:
   name: material
   language: en
