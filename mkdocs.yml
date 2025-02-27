@@ -3,7 +3,7 @@
 site_name: CPP Lab Guide
 repo_name: cpp-lln-lab/CPP_LabGuide
 repo_url: https://github.com/cpp-lln-lab/CPP_LabGuide
-edit_uri: ./edit/main/docs/
+edit_uri: ./edit/main/doc/
 # docs_dir: alternative_path # docs/ is the default folder
 copyright: MIT
 
