@@ -1,4 +1,5 @@
 # Code and data arrangement
+
 ## Version control
 
 In the lab we (try) to stick to version control for code with git/github and data with datalad and gin. Somewhere else is already mentioned but repetita iuvant so 
