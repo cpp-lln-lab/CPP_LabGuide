@@ -21,7 +21,7 @@ Some students have to participate in experiments to obtain credits for some cour
 
 ### Recruit of participants (special populations and relative controls) [WIP]
 If you are testing special populations, we are setting up a system to track each subject and their relative controls. This is a Work In Progress. 
-Anamsesi to administer (link): the anamnesis we used at the moment is this one. We can also use the first 4 pages of this anamnesis to assess the control subjects. 
+Anamsesi to administer (link): the anamnesis we used at the moment is [this one](https://docs.google.com/document/d/1RIijOffS0RQxM9vv43b6lqeodpgvmupDPekI8_2aXGM/edit). We can also use the first 4 pages of this anamnesis to assess the control subjects. 
 Participant code rule (pseudocode): It is necessary to anonymize the participants' data, and to use a homogeneous code. One of the rules we can use is the following:  1st and 3d letters of the name and the surname of the mom’s participant_date of birth + 10 years. For instance, if my mom is named Marie Dubois and I am born in 1993, my code will be MADU_2003. 
 OSF where we store anamnesi information (link): 
 How to link Participant code and participant real name (link): 
