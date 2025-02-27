@@ -18,7 +18,8 @@ for MRI data the lab is moving towards using the BIDS data structure
 * bids starter kit
 * bids specification
 
-# Official GIN/DATALAD CPP dataset organization 
+### Official GIN/DATALAD CPP dataset organization 
+
 
 [WIP] Checklist to make an official “raw” repo (bids, bids-validator checked, standard CPP data organization (eg group naming, task naming, readme with link to published/preprint, etc)) 
 
