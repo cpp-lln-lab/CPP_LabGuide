@@ -1,7 +1,8 @@
 # Running a study
 ## Ethics
 ## Project proposal
-## Liège - CRC
+### Liège - CRC
+
 
 We ask researchers to present their project before acquiring any data (some piloting still possible as this can help prepare the project itself).  We don't veto projects but it happened (rarely) that we asked the project carrier to provide further explanations.
 
