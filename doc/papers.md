@@ -67,7 +67,7 @@ Controls: Turquoise: RGB: 105.170.153, HEX #69AA99
 
 ## Affiliation for authors of the CPP lab
 Please make sure to have your right affiliation written in your publications:
-`Crossmodal Perception and Plasticity Lab, Institute of Research in Psychology (IPSY) and Institute of Neuroscience (IoNS), Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium`
+`Crossmodal Perception and Plasticity Lab, Institute of Neuroscience (IoNS) and Institute of Research in Psychology (IPSY), Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium`
 
 ## Contribution to papers
 To list authors's contribution in your paper, refer to this structure: https://www.casrai.org/credit.html 
