@@ -70,7 +70,7 @@ Please make sure to have your right affiliation written in your publications:
 `Crossmodal Perception and Plasticity Lab, Institute of Neuroscience (IoNS) and Institute of Research in Psychology (IPSY), Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium`
 
 ## Contribution to papers
-To list authors's contribution in your paper, refer to this structure: https://www.casrai.org/credit.html 
+To list authors's contribution in your paper, refer to this structure: https://credit.niso.org/ 
 Make sure to put Olivier as corresponding author for financial reasons (reduced fees).
 
 This link can help you defining your author’s list: https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two
