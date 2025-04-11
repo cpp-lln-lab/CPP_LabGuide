@@ -1,6 +1,5 @@
 # Google calendar
-
-We have several google calendars used for several purposes:
+## We have several google calendars used for several purposes:
 
 [CPP-LAB : all events](https://calendar.google.com/calendar?cid=a21kcmMybWp1MXNkaDJ2dGZiMDZkbjc2ZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) → for most of the information
 

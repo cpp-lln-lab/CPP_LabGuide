@@ -1,6 +1,8 @@
 # Logistics
+
 ## Wifi
 To connect to the eduroam network : you can use your uclouvain address as identification and your UCLouvain password.
+
 ## Getting your UCLouvain email address (for external grants)
 If you are not directly paid by the university or a grant associated to it (eg. FNRS), so for instance if you are a WBI grant holder, you might need to set up your UCLouvain email adress yourself. To do so you first need to be registered as an invited researcher by the [GECO](https://uclouvain.be/fr/repertoires/entites/geco). You can contact Santina Bongiovanni santina.bongiovanni@uclouvain.be . They should give you your FGS number (“n° de matricule FGS” in French). You can then enter your FGS number as well as your birth date at this link https://sites.uclouvain.be/sgsi-apps/newaccount/prod/index.php?main=depart&stvl=en and that will give you your email address ! 
 

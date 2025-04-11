@@ -1,11 +1,16 @@
-## Restaurants
+# Get around in Brussels and in Belgium
 
-### University 
+## Language learning
 
+
+## CPP-Lab approved places 
+
+### Restaurants
+
+#### University 
 - [University restaurant](https://uclouvain.be/fr/decouvrir/resto-u/le-sablon-self.html )
 
-### Typical Belgian restaurants:
-
+#### Typical Belgian restaurants:
 - [Bugatti](http://www.lebugatti.be)
 - [Le chou de bruxelles](http://www.restaurantlechoudebruxelles.com)
 - [Le petite Belge](http://www.restaurant-petit-belge.be)
@@ -16,9 +21,7 @@
 
 - [Le brassin](http://www.lesbrassins.com/en)
 
-
-### Not Belgian restaurants
-
+#### Not Belgian restaurants
 - [Paolo’s Idea](http://www.paolosidea.com) (Italian)-it's good again! 
 - [La bottega della pizza](https://www.facebook.com/Pizzeria-La-Bottega-Della-Pizza-403460962473/) (Italian)
 - [Ouzerie Mezedopolio](http://www.restaurant-grec-ixelles.be/#restaurant-ouzerie-grecque) (greek)
@@ -28,22 +31,18 @@
 - [El Turco](https://elturco.be/ ) (open buffet, Luxembourg neighbourhood, very good Turkish food) 
 - [Mili Ixelles](https://miliixelles.eatbu.com/?lang=en#): Chau. de Boondael 3561050 Ixelles (authentic Chinese food, especially for spicy food) 
 
-## Cafes
-
+### Cafes
 - [Fika](https://www.facebook.com/fikabrussels/)
 - Leopold cafes
 
-## Cinema
-
+### Cinema
 - [Cinema Cinescope](https://www.cinescope.be)
 - [Cinematek](http://cinematek.be/)
 
-## Theaters 
-
+### Theaters 
 - [Atelier Théâtre Jean Vilar](http://www.atjv.be)
 
-## Sports 
-
+### Sports 
 - Sport centre in LLN, with different options according to your [position](https://www.uclouvain.be/fr/sport/le-passsports-uclouvain)
 - [Swimming pool](https://csblocry.be/piscines/)
 - 60 euro membership and having access to all courses in LLN
