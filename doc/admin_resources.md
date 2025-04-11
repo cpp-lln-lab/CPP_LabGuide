@@ -9,14 +9,17 @@
 ## Doctoral schools
 [redirect to doctoral_schools.md]
 
+## Computing
+[redirect to computing_resources.md]
+
+## Purchasing materials
+[redirect to buying_things.md]
+
 ## Lab website
 [redirect to lab_website.md]
 
 ## Lab meetings
 [redirect to lab_meetings.md]
 
-## Code and Data management
+## Principles of code and Data management
 [redirect to code_data_management.md]
-
-## Purchases and reimbursements
-[redirect to buying_things.md]

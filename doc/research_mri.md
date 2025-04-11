@@ -1,10 +1,11 @@
 # MRI experiments
 
-## CPP-approved resources
+## List of resources
 
 ### Manuals
 ### Websites
 ### Courses
+
 
 ## Coding the experiment
 
@@ -12,12 +13,14 @@
 ### GitHub templates
 ### Implementing bidspm
 
+
 ## Running the experiment
 
 ### St.Luc hospital - Woluwe
 ### CRC - Liège
 
-## Analysis workflow
+
+## Analyses workflow
 
 ### BIDS conversion
 

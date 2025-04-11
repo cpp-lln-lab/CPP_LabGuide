@@ -1,23 +1,25 @@
 # EEG experiments
 
-## CPP-approved resources
+## List of resources
 
 ### Manuals
 ### Websites
 ### Courses
 
+
 ## Coding the experiment
 
 ### Good practices
 ### GitHub templates
-### Implementing bidspm
+
 
 ## Running the experiment
 
 ### Woluwe
 ### Louvain-la-Neuve
 
-## Analysis workflow
+
+## Analyses workflow
 
 ### Different steps
 ### Other analyses

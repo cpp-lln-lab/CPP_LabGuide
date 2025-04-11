@@ -1,13 +1,19 @@
 # Welcome to CPP-Lab
 
+## Mailing lists 
+
+
 ## Lab website
+
 
 ## Lab meetings
 
-## Lab calendar
+## Important links
 
-## Shared GDrive folder
+### Lab calendars
+### Discord
+### Shared GDrive folder
+### Lab GitHub and GIN repositories
 
-## Lab GitHub and GIN repositories
 
-## Computers
+## Contacts of people

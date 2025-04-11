@@ -3,14 +3,14 @@
 ## Before arriving
 
 ### Coming from within EU
-
 ### Coming from outside EU
 
-## Once you are in Belgium
 
-### Find an accomodation
+## Living in Belgium
 
-### Get around / Living in Belgium
+### Find an appartment
+### Bureaucracy steps
 
-### Once you are settled
+
+## Enjoy Belgium
 [redirect to activities.md]

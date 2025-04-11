@@ -1,15 +1,17 @@
 # Behavioural experiments
 
-## CPP-approved resources
+## List of resources
 
 ### Manuals
 ### Websites
 ### Courses
 
+
 ## Coding the experiment
 
 ### Good practices
 ### GitHub templates
+
 
 ## Running the experiment
 
@@ -17,7 +19,8 @@
 ### Louvain-la-Neuve
 ### Online
 
-## Analysis workflow
+
+## Analyses workflow
 
 ### Different steps
 ### Other analyses

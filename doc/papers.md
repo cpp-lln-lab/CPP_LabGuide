@@ -1,6 +1,6 @@
 # Papers
 
-## Resources 
+## Writing resources 
 
 ### How to write
 8-week Coursera course on Writing in the Sciences (not a lot of work) (https://www.coursera.org/learn/sciwrite)
@@ -52,7 +52,6 @@ Here are some of the common ones. Feel free to add more (for suggestions, check:
 - MIPAV (RRID:SCR_007371)
 - JIST (RRID:SCR_00888)
 
-
 ### Grants
 
 #### ERC 
@@ -65,9 +64,11 @@ In order to create coherence across papers and because most of the histograms we
 Patients (blind, moebius, deaf, etc.): Orange: RGB: 255.158.74, ​​HEX: #FF9E4A
 Controls: Turquoise: RGB: 105.170.153, HEX #69AA99
 
+
 ## Affiliation for authors of the CPP lab
 Please make sure to have your right affiliation written in your publications:
 `Crossmodal Perception and Plasticity Lab, Institute of Research in Psychology (IPSY) and Institute of Neuroscience (IoNS), Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium`
+
 
 ## Contribution to papers
 To list authors's contribution in your paper, refer to this structure: https://www.casrai.org/credit.html 
