@@ -66,12 +66,11 @@ cooked step by step for MacOS users:
 
 
 Short guidelines:
-* not suitable for an “online” usage (eg running analyses within the folder), it is a cloud service so reading and writing is as fast as your internet connection
-* Long term storage
-* Please, be organized. Imagine that another person in the future will open that folder and make sense of the content in less than 2 minutes
-* Add README files to help the future user understand what’s inside that folder (e.g. dicoms from the study XXX published in XXX code for conversion/analyses here github.com/xxx, copy of this dataset is also on gin.g-node.org/xxx)
-
-What to put there? Should not become a data dump so not just a new space where a user can free up her/his hard disk
+- not suitable for an “online” usage (eg running analyses within the folder), it is a cloud service so reading and writing is as fast as your internet connection
+- Long term storage
+- Please, be organized. Imagine that another person in the future will open that folder and make sense of the content in less than 2 minutes
+- Add README files to help the future user understand what’s inside that folder (e.g. dicoms from the study XXX published in XXX code for conversion/analyses here github.com/xxx, copy of this dataset is also on gin.g-node.org/xxx)
+- What NOT to put there? Should not become a data dump so not just a new space where a user can free up her/his hard disk
 
 
 
