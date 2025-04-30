@@ -2,8 +2,10 @@
 
 [More ideas here](https://intranet.uclouvain.be/en/myucl/administrations/adre/research-funding-opportunities.html)
 
+Check [SAFIR application](https://app.uclouvain.be/Safir/), which allows you to identify funding according to various filters, including the category of researcher and the purpose of the funding.
 
-Contact person at UCL can help a lot: Anouk Distelman
+Contact person at UCL can help a lot: Anouk Distelman (apparently not any more working for "funding department"), Sara Wilmet
+
 
 
 Credits / money for PhD students is rolled over from one year to the next
