@@ -4,7 +4,7 @@
 
 Check [SAFIR application](https://app.uclouvain.be/Safir/), which allows you to identify funding according to various filters, including the category of researcher and the purpose of the funding.
 
-Contact person at UCL can help a lot: Anouk Distelman (apparently not any more working for "funding department"), Sara Wilmet
+Contact persons at UCL: For funding-related inquiries, please contact Sara Wilmet. For other general assistance, you may reach out to Anouk Distelman.
 
 
 
