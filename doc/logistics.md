@@ -11,7 +11,9 @@ If you are not directly paid by the university or a grant associated to it (eg. 
 
 ### Keys
 
-To request an office key (CPP behavioral lab key should be the same one), one needs to pay a deposit of 20 euros. This money will be given back once leaving the lab and return the key to Cathy Friand
+To request an office key , one needs to pay a deposit of 20 euros. This money will be given back once leaving the lab and return the key to Cathy Friand
+
+The CPP behavioral lab's key should be the same one as the office's key. To check once we have the new keys.
 
 
 Procedure when requesting a key:
