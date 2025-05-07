@@ -6,7 +6,8 @@ If you are not directly paid by the university or a grant associated to it (eg. 
 
 ## Printer setup
 
-## Keys + access card (reference person is Cathy Friand)
+## Keys + access card for Woluwe campus (reference person is Cathy Friand)
+
 
 ### Keys
 
