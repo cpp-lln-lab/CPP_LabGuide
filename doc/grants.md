@@ -22,6 +22,14 @@ Credits / money for PhD students is rolled over from one year to the next
 
 **PLEASE NOTE they deadline is very strict! No possibility to apply if you miss the deadline**
 
+### FWB
+
+- 2 months in advance for within EU, 3 months for outside EU
+- 500 EURO for conference inside Europe, 1500 EURO for conference outside Europe.
+
+  
+[PARTICIPATION À DES RÉUNIONS D’ÉCHANGE - FWB](https://app.uclouvain.be/Safir/Fund?FundId=98)
+
 
 ### IPSY
 
@@ -35,8 +43,7 @@ IPSY provide 700 EURO budget for PhD students who don’t have conference fundin
 
 [Regulations](https://uclouvain.sharepoint.com/sites/ipsy/Documents%20partages/Forms/AllItems.aspx?id=%2Fsites%2Fipsy%2FDocuments%20partages%2FEntrep%C3%B4t%20Web%20IPSY%2FR%C3%A8glement%20attribution%20subvention%20congr%C3%A8soct%5F%5F%2Epdf&parent=%2Fsites%2Fipsy%2FDocuments%20partages%2FEntrep%C3%B4t%20Web%20IPSY)
 
-[Apply form](https://intranet.uclouvain.be/fr/myucl/instituts-recherche/ipsy/formulaire-de-demande-d-indemnisation-pour-les-colloques.html)
-
+[Apply form](https://forms.office.com/Pages/ResponsePage.aspx?id=1JCwei76z068fEEntNWC7GdZgjqbmVJAmrRlvz1uYKZUMFU1M0hHVDY3N09JMTRPWVJVWU5HSzIxUC4u)
 should submit one month before the conference.
 
 ### WBI
