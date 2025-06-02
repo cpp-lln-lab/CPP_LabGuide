@@ -23,7 +23,8 @@ Credits / money for PhD students is rolled over from one year to the next
 ### FWB
 
 - 2 months in advance for within EU, 3 months for outside EU
-- 500EURO for conference inside Europe, 1500 EURO for conference outside Europe.
+- 500 EURO for conference inside Europe, 1500 EURO for conference outside Europe.
+
   
 [PARTICIPATION À DES RÉUNIONS D’ÉCHANGE - FWB](https://app.uclouvain.be/Safir/Fund?FundId=98)
 
