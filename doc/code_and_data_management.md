@@ -27,24 +27,24 @@ for MRI data the lab is moving towards using the BIDS data structure
 
 Data:
 
-(GIN organization)[https://gin.g-node.org/cpp-lln-lab] for source, raw, and preprocessed data for conversion control and sharing
+[GIN organization](https://gin.g-node.org/cpp-lln-lab) for source, raw, and preprocessed data for conversion control and sharing
 
 Dataset summary that puts together all the bidsified raw and derivatives repos of the lab and summarize metadata in a table from the GIN repo above: 
 - [website](https://cpp-lln-lab.github.io/Datasets/)
 - [Githuba repo CPP_Datasets](https://github.com/cpp-lln-lab/CPP_Datasets)
 
 Datalad superdataset to grab all the repo together (these are submodules in the [Githuba repo CPP_Datasets](https://github.com/cpp-lln-lab/CPP_Datasets):
-https://github.com/cpp-lln-lab/cpp-lln-lab_derivatives
-https://github.com/cpp-lln-lab/cpp-lln-lab_source
+ - https://github.com/cpp-lln-lab/cpp-lln-lab_derivatives 
+ - https://github.com/cpp-lln-lab/cpp-lln-lab_source
 
 Guidelines to maintain the CPP dataset https://github.com/cpp-lln-lab/dataset_maintenance
 
 
 Tools:
-https://github.com/cpp-lln-lab/template_datalad_bids-raw
-https://github.com/cpp-lln-lab/CPP_dcm2Bids
-https://github.com/cpp-lln-lab/letswave_bids_import
-https://github.com/cpp-lln-lab/eeg_bids_conversion
+- https://github.com/cpp-lln-lab/template_datalad_bids-raw
+- https://github.com/cpp-lln-lab/CPP_dcm2Bids
+- https://github.com/cpp-lln-lab/letswave_bids_import
+- https://github.com/cpp-lln-lab/eeg_bids_conversion
 
 
 
