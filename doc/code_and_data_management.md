@@ -33,7 +33,7 @@ Data:
 
 Dataset summary that puts together all the bidsified raw and derivatives repos of the lab and summarizes metadata in a table from the GIN repo above: 
 
-- [website](https://cpp-lln-lab.github.io/Datasets/)
+- [website with summary table]([https://cpp-lln-lab.github.io/Datasets/](https://cpp-lln-lab.github.io/CPP_Datasets/))
 - [Githuba repo CPP_Datasets](https://github.com/cpp-lln-lab/CPP_Datasets)
 
 Datalad superdataset to grab all the repo together (these are submodules in the [Githuba repo CPP_Datasets](https://github.com/cpp-lln-lab/CPP_Datasets):
