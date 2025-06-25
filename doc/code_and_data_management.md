@@ -63,6 +63,7 @@ http://sss-intranet.icp.ucl.ac.be/wiki/index.php/Storage_access#Groups
 
 cooked step by step for MacOS users:
 
+(If not connected in UCLouvain, first connect with VPN)
 1. Open Finder
 2. Go menu
 3. Element Connect to server
