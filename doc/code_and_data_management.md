@@ -71,7 +71,7 @@ Github/Datalad superdataset to grab all the repo together. These repos are submo
 
 Guidelines to maintain the CPP dataset at [dataset_maintenance](https://github.com/cpp-lln-lab/dataset_maintenance)
 
-#### Sharing data to collaborators external to the CPP lab
+#### Sharing data to collaborators external to the CPP lab via GIN
 
 For the CPP member in charge to share the data
 
@@ -154,3 +154,7 @@ Here below, the cooked step by step process for MacOS users to connet to the CPP
 4. Add address smb://sss-samba.icp.ucl.ac.be/cosy-oc
 5. Use your UCLouvain credentials when asked
 6. Add the opened folder as a favorite (top of the right panel).
+
+#### Sharing/receivereceive data to/from collaborators external to the CPP lab via SSS/IONS server
+
+[WIP]
