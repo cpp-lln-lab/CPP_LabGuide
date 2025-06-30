@@ -5,7 +5,7 @@
 In the lab we (try) to stick to version control for code with git/github and data with datalad and gin. Somewhere else is already mentioned but repetita iuvant so 
 
 1. Install git on your computer 
-2. Create a GITHUB account and ask to be added to the (lab organization)[https://github.com/cpp-lln-lab]
+2. Create a GITHUB account (TIP: use full name and not nick name, it will be easier for others to find you) and ask to be added to the lab organization [https://github.com/cpp-lln-lab]
 3. Make sure you have your SSH key for GITHUB following this tutorial 
 4. Have a look at this doc to have a first idea on how to contribute on github
 5. Have a look around cause we already have a lot of ready to use code ;)
