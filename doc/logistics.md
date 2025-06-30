@@ -11,7 +11,8 @@ If you are not directly paid by the university or a grant associated to it (eg. 
 
 ### Keys
 
-To request an office key , one needs to pay a deposit of 20 euros. This money will be given back once leaving the lab and return the key to Cathy Friand
+To request an office key, one needs to pay a deposit of 20 euros. This money will be given back once leaving the lab and return the key to Cathy Friand
+
 
 The CPP behavioral lab's key should be the same one as the office's key. To check once we have the new keys.
 
@@ -21,7 +22,8 @@ Procedure when requesting a key:
 1. Deposit pay
 - Transfer €20 to UCLouvain account:
   - account: BE95 3701 2884 2258.
-  - bject: Q6.21300.001 - IONS CAUTION CLES + name and surname
+  - object: Q6.21300.001 - IONS CAUTION CLES + name and surname
+
 
 2. Send a request by email and notice of the bank transfer to Cathy Friand with the following information:
 
@@ -33,7 +35,8 @@ Private email address :
 
 3. Once the bank transfer has been made, the person is invited to collect the key from Cathy Friand's office (please let her know beforehand).
 
-### Acces card
+### Access card
+
 
 Ask Cathy Friand to allow your access card to open the door on the COSY IONS floor and the IONS Kitchen. Send the FSG number of your card.
 
