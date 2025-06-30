@@ -84,11 +84,12 @@ For the external collaborator (copied from above):
 1. [Install Datalad](https://handbook.datalad.org/en/latest/intro/installation.html): in a nutshell it is "git for data", checkout more at the offical [datalad handbook](https://handbook.datalad.org/en/latest/).
 2. Create an account on [G-node GIN](https://gin.g-node.org/): GIN is a host server for Neuro Imaging data, good for “unlimited” and free cloud back-up and private and public data sharing.
 3. Share your gin account to the person in charge to share the data with you and ask to be added as a "collaborator" to the specific repos you want to be share with you
-4. Use datalad to get the data, use this script below by changing paths anbd URL:
+4. Use datalad to get the data, use this script below by changing paths anb URL (use ssh URL strationg with `git@gin.g-node.org:/cpp-lln-lab/`):
 
 ```bash
 folder_for_installation=
 
+# mind that this should be the ssh url since the repo is private so it should start with git@gin.g-node.org:/cpp-lln-lab/name-of-the-dataset
 repo_url= 
 
 mkdir -p $folder_for_installation
