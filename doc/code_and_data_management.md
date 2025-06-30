@@ -5,7 +5,7 @@
 In the lab we (try) to stick to version control for code with git/github and data with datalad and gin. Somewhere else is already mentioned but repetita iuvant so 
 
 1. Install git on your computer 
-2. Create a GITHUB account and ask to be added to the lab organization [https://github.com/cpp-lln-lab]
+2. Create a GITHUB account and ask to be added to the (lab organization)[https://github.com/cpp-lln-lab]
 3. Make sure you have your SSH key for GITHUB following this tutorial 
 4. Have a look at this doc to have a first idea on how to contribute on github
 5. Have a look around cause we already have a lot of ready to use code ;)
@@ -58,11 +58,11 @@ Tools:
 
 ### IONS cloud storage
 
+For more information, see the [SSS / IONS official intranet page](http://sss-intranet.icp.ucl.ac.be/wiki/index.php/Storage_access#Groups)
 
-For more information, see the [SSS official intranet page](http://sss-intranet.icp.ucl.ac.be/wiki/index.php/Storage_access#Groups)
+Cooked step by step for MacOS users:
 
-cooked step by step for MacOS users:
-
+(If not connected in UCLouvain, first connect with VPN)
 1. Open Finder
 2. Go menu
 3. Element Connect to server
@@ -71,7 +71,7 @@ cooked step by step for MacOS users:
 6. Add the opened folder as a favorite (top of the right panel)
 
 
-Short guidelines:
+Short guidelines (how to use this space):
 
 - not suitable for an “online” usage (eg running analyses within the folder), it is a cloud service so reading and writing is as fast as your internet connection
 - Long term storage
