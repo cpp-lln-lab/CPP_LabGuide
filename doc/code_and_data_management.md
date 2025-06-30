@@ -79,7 +79,8 @@ Short guidelines:
 - Add README files to help the future user understand what’s inside that folder (e.g. dicoms from the study XXX published in XXX code for conversion/analyses here github.com/xxx, copy of this dataset is also on gin.g-node.org/xxx)
 - What NOT to put there? Should not become a data dump so not just a new space where a user can free up her/his hard disk
 
-It is possible to ask/send data with not UCLouvain collaborators by setting uo an SFTP access, see [here](https://sss-intranet.icp.ucl.ac.be/wiki/index.php/File_transfer#Transferring_large_files_between_SSS_and_the_outside)
+It is possible to ask/send data with not UCLouvain collaborators by setting up an SFTP access, see [here](https://sss-intranet.icp.ucl.ac.be/wiki/index.php/File_transfer#Transferring_large_files_between_SSS_and_the_outside)
+
 
 ## Get organised
 
