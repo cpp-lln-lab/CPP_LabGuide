@@ -5,7 +5,42 @@ To connect to the eduroam network : you can use your uclouvain address as identi
 If you are not directly paid by the university or a grant associated to it (eg. FNRS), so for instance if you are a WBI grant holder, you might need to set up your UCLouvain email adress yourself. To do so you first need to be registered as an invited researcher by the [GECO](https://uclouvain.be/fr/repertoires/entites/geco). You can contact Santina Bongiovanni santina.bongiovanni@uclouvain.be . They should give you your FGS number (“n° de matricule FGS” in French). You can then enter your FGS number as well as your birth date at this link https://sites.uclouvain.be/sgsi-apps/newaccount/prod/index.php?main=depart&stvl=en and that will give you your email address ! 
 
 ## Printer setup
-## Keys + access card 
+
+## Keys + access card for Woluwe campus (reference person is Cathy Friand)
+
+
+### Keys
+
+To request an office key, one needs to pay a deposit of 20 euros. This money will be given back once leaving the lab and return the key to Cathy Friand
+
+
+The CPP behavioral lab's key is the same one as the office's key. 
+
+
+
+Procedure when requesting a key:
+
+1. Deposit pay
+- Transfer €20 to UCLouvain account:
+  - account: BE95 3701 2884 2258.
+  - object: Q6.21300.001 - IONS CAUTION CLES + name and surname
+
+
+2. Send a request by email and notice of the bank transfer to Cathy Friand with the following information:
+
+Full name :
+Home address :
+Telephone number :
+Email address UCLouvain :
+Private email address :
+
+3. Once the bank transfer has been made, the person is invited to collect the key from Cathy Friand's office (please let her know beforehand).
+
+### Access card
+
+
+Ask Cathy Friand to allow your access card to open the door on the COSY IONS floor and the IONS Kitchen. Send the FSG number of your card.
+
 ## Book a room at UcL
 Follow this link: https://sites.uclouvain.be/reservation-psp/week_all.php?area=4 
 For a room, select “Salles de réunions” in the left panel.
