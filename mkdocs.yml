@@ -25,30 +25,105 @@ docs_dir: doc
 nav:
 - Home: index.md
 - Contributing: contributing.md
-- Welcome section:
-  - Registration at UCLouvain: registration_at_uclovuain.md
-  - Living in Belgium: living_in_belgium.md
+
+- Welcome:
+  - welcome/welcome_index.md
+  - Welcome to Belgium: 
+    - welcome/belgium_index.md
+    - Before arriving: welcome/belgium/belgium_before.md
+    - Get settled in Belgium: 
+      - welcome/belgium/practical/belgium_practicalities.md
+      - Accommodation: welcome/belgium/practical/belgium_living.md
+      - Transportation: welcome/belgium/practical/belgium_transport.md
+      - Bureaucracy: welcome/belgium/practical/belgium_admin.md
+  - Welcome to UCLouvain: 
+    - welcome/uclouvain/uclouvain_index.md
+    - Registration: welcome/uclouvain/ucl_registration.md
+    - Get around in IoNS: welcome/uclouvain/ucl_ions.md
+  - Welcome to the CPP-Lab: 
+    - welcome/cpplab/cpp_index.md
+    - Important links: welcome/cpplab/cpp_links.md
+  - Activities: 
+  - welcome/activities/activities_index.md
+  - Language learning: welcome/activities/activities_language.md
+  - CPP-approved places: welcome/activities/activities_places.md
+
 - Life in lab:
-  - Google calendar: google_calendar.md
-  - Logistics: logistics.md
-  - Lab meetings: lab_meetings.md
-  - Admin: admin.md
-  - Lab website: lab_website.md
-  - Online accounts to join: online_accounts_to_join.md
-  - Grants: grants.md
-  - Conferences of interest: conferences_of_interest.md
-  - Buying things for the lab: buying_things_for_the_lab.md
-  - For PhD students: for_phd_students.md
-  - Using the computer cluster: using_the_computer_cluster.md
-  - iMac in the lab: iMac_in_the_lab.md
-  - Code and data management: code_and_data_management.md
-  - Running a study: running_a_study.md
-  - Testing participants: testing_participants.md
-  - Conference posters: conference_posters.md
-  - Papers: papers.md
-- Activities:
-  - Learnign French: learning_french.md
-  - Fun activities: fun_activities.md
+  - lab_life/lab_index.md
+  - Logistics: lab_life/logistics.md
+  - Grants: 
+    - lab_life/grants/grants_index.md
+    - Research grants: lab_life/grants/research_grants.md
+    - Travel grants: lab_life/grants/travel_grants.md
+    - Funding for seminars and speakers: lab_life/grants/funding_seminars.md
+    - Reimbursements: lab_life/grants/reimbursements.md
+  - Doctoral schools: lab_life/doctoral_schools.md
+  - Computing resources: 
+    - lab_life/computers/computers_index.md
+    - iMacs: lab_life/computers/imac_computer.md
+    - Monster: lab_life/computers/monster_computer.md
+    - HPC: lab_life/cluster_computer.md
+  - Purchasing materials: lab_life/purchasing_materials.md
+  - Lab website: lab_life/lab_website.md
+  - Lab meetings: lab_life/lab_meetings.md
+
+- Research:
+  - research/research_index.md
+  - Experiments: 
+    - research/experiments/experiments_index.md
+    - General first steps: 
+      - research/experiments/general_index.md
+      - Initialize your project: research/experiments/general/exp_first_steps.md
+      - Ethical approval: research/experiments/general/exp_ethics.md
+      - Participants recruitment: research/experiments/general/exp_recruitment.md
+      - General analyses tips: research/experiments/general/exp_analyses.md
+      - Code and data management: research/experiments/general/code_data_management.md
+    - fMRI: 
+      - research/experiments/fmri/fmri_index.md
+      - List of resources: research/experiments/fmri/fmri_resources.md
+      - Coding the experiment: research/experiments/fmri/fmri_coding.md
+      - Run the experiment: research/experiments/fmri/fmri_testing.md
+      - Analyses workflow: research/experiments/fmri/fmri_analyses.md
+    - EEG: 
+      - research/experiments/eeg/eeg_index.md
+      - List of resources: research/experiments/eeg/eeg_resources.md
+      - Coding the experiment: research/experiments/eeg/eeg_coding.md
+      - Run the experiment: research/experiments/eeg/eeg_testing.md
+      - Analyses workflow: research/experiments/eeg/eeg_analyses.md
+    - Behavioural: 
+      - research/experiments/behavioural/beh_index.md
+      - List of resources: research/experiments/behavioural/beh_resources.md
+      - Coding the experiment: research/experiments/behavioural/beh_coding.md
+      - Run the experiment: research/experiments/behavioural/beh_testing.md
+      - Analyses workflow: research/experiments/behavioural/beh_analyses.md
+    - TMS: 
+      - research/experiments/tms/tms_index.md
+      - List of resources: research/experiments/tms/tms_resources.md
+      - Coding the experiment: research/experiments/tms/tms_coding.md
+      - Run the experiment: research/experiments/tms/tms_testing.md
+      - Analyses workflow: research/experiments/tms/tms_analyses.md
+    - DNN: 
+      - research/experiments/dnn/dnn_index.md
+      - List of resources: research/experiments/dnn/dnn_resources.md
+      - Coding the experiment: research/experiments/dnn/dnn_coding.md
+      - Run the experiment: research/experiments/dnn/dnn_testing.md
+      - Analyses workflow: research/experiments/dnn/dnn_analyses.md
+
+  - Share your research:
+    - research/outreach/outreach_index.md
+    - Conferences:
+      - research/outreach/conferences/conferences_index.md
+      - Relevant conferences: research/outreach/conferences/interesting_conferences.md
+      - Prepare a poster: research/outreach/conferences/poster_presentation.md
+      - Prepare a talk: research/outreach/conferences/talk_presentation.md
+      - Conference admin: research/outreach/conferences/conference_admin.md
+    - Publishing a paper:
+      - research/outreach/papers/papers_index.md
+      - Writing resources: research/outreach/papers/papers_writing.md
+      - Figures: research/outreach/papers/papers_figures.md
+      - Citations and mentions: research/outreach/papers/papers_mentions.md
+      - Publishing: research/outreach/papers/papers_submission.md
+
 
 # list of extension
 markdown_extensions:
