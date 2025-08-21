@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contributing
 
 This is a common effort, please contribute actively to this docs.
 If something is unclear, incorrect, or incomplete; if something needs to be updated or if you found a new and cool feature, consider adding it yourself.
@@ -20,9 +20,7 @@ If you're new to markdown, here's a quick [markdown cheatsheet](https://www.mark
 
 Before making any modification, remember that this guide is publicly accessible by anyone. If you want to add any potentially sensitive information (e.g. participants codes, passwords of shared accounts), consider making a private password-protected document that can be linked via the lab guide. If you're unsure about what to do or how to do, get in touch with the maintainers of the guide.
 
-
 ### Edit from github
-
 1. Browse the repo to find the the markdown file you want to edit (e.g. the one for this section is [contributing.md](https://github.com/cpp-lln-lab/CPP_HPC/blob/main/doc/contributing.md)) and click on `edit` (the pen icon) on the top right
 2. Edit the file with your changes
 3. When done, click on `commit changes` (green botton on the top right), select `Create a new branch for this commit and start a Pull Request`, and then `Commit changes`
@@ -32,9 +30,7 @@ Before making any modification, remember that this guide is publicly accessible 
 
 To change the website structure (add, reorder, rename sections), see the file `mkdocs.yml` and the section `Pages`.
 
-
 ### Edit locally
-
 If you're unfamiliar with the terms used here, check out the [git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 
 1. fork this repository
