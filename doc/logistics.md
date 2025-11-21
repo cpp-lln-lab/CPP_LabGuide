@@ -29,7 +29,7 @@ Then click on the day and time you want to book, confirm the booking. You will r
 
 ## Connect to UCLouvain network with a VPN
 This is useful if you are not working inside UCLouvain internet network and you need to e.g. access not open access articles and/or ssh to a computer of the lab or the CECI clusters.
-https://intranet.uclouvain.be/fr/myucl/services-informatiques/vpn.html
+[https://intranet.uclouvain.be/fr/myucl/services-informatiques/vpn.html](https://uclouvain.atlassian.net/servicedesk/customer/article/564985915)
 
 ## Matlab license for experimental computers
 If you are working with an experimental computer to provide stimulation and you need a matlab license (there are no “alternatives” as for le Poulpe’s computer), there are several options. 
@@ -38,3 +38,4 @@ If you are working with an experimental computer to provide stimulation and you 
 3. Buy a Matlab license from UCLouvain - 100€/year/license.
 To introduce a request, follow this link and connect with UCLouvain credentials : 
 https://uclouvain.atlassian.net/servicedesk/customer/portal/3/create/65
+
