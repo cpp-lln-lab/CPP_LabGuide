@@ -86,7 +86,7 @@ In short, four conditions should be met to include someone as a co-author :
 ### Pre-submission checklist:
 - [ ] is your data online and FAIR (Findable Accessible Interoperable Reusable)?
 - [ ] is your code online and accessible?
-- [ ] did you post a pre-print?
+- [ ] did you post a pre-print? 
 - [ ] did you update the CPP lab’s website with a link to the preprint? (check with Jacek)
 
 ### Post-acceptation checklist:
