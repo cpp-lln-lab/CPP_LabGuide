@@ -18,6 +18,8 @@ HOW TO ARRIVE [here](http://www.uclouvain.be/en-acces-lln.html)
  
 HOW TO GET AROUND [here](http://www.uclouvain.be/en-239559.html)
 
+IoNS Welcome book: https://uclouvain.sharepoint.com/sites/ions/Accueil%20nouveaux%20arrivants/Forms/AllItems.aspx?csf=1&web=1&e=Pd7eBb&CID=92812d43%2D4244%2D4500%2D9c8f%2D693284497c37&FolderCTID=0x012000B34620C0BB0DA14A94B05735499317C8&id=%2Fsites%2Fions%2FAccueil%20nouveaux%20arrivants%2FWelcome%20Book
+
 ## Registration 
 
 ### Common to all cases
