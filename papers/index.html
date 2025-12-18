@@ -1,0 +1,1627 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../conference_posters/">
+      
+      
+        <link rel="next" href="../learning_french/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Papers - CPP Lab Guide</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="light-blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#papers" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="CPP Lab Guide" class="md-header__button md-logo" aria-label="CPP Lab Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            CPP Lab Guide
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Papers
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/cpp-lln-lab/CPP_LabGuide" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    cpp-lln-lab/CPP_LabGuide
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="CPP Lab Guide" class="md-nav__button md-logo" aria-label="CPP Lab Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    CPP Lab Guide
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/cpp-lln-lab/CPP_LabGuide" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    cpp-lln-lab/CPP_LabGuide
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contributing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Welcome section
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Welcome section
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../registration_at_uclovuain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Registration at UCLouvain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../living_in_belgium/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Living in Belgium
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Life in lab
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Life in lab
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../google_calendar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Google calendar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../logistics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logistics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lab_meetings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lab meetings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../admin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Admin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lab_website/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lab website
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../online_accounts_to_join/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Online accounts to join
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../grants/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grants
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../conferences_of_interest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conferences of interest
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../buying_things_for_the_lab/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Buying things for the lab
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../for_phd_students/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    For PhD students
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../using_the_computer_cluster/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Using the computer cluster
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../iMac_in_the_lab/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    iMac in the lab
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../code_and_data_management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code and data management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../running_a_study/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Running a study
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testing_participants/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Testing participants
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../conference_posters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conference posters
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Papers
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Papers
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Resources">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-to-write" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to write
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reference-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reference management
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#naming-convention-for-word-documents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Naming convention for word documents
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Naming convention for word documents">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mentions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mentions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Mentions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#softwares" class="md-nav__link">
+    <span class="md-ellipsis">
+      Softwares
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Softwares">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stimulus-presentation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stimulus presentation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mri" class="md-nav__link">
+    <span class="md-ellipsis">
+      MRI
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#high-res-mri" class="md-nav__link">
+    <span class="md-ellipsis">
+      high-res MRI
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#grants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Grants
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Grants">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#erc" class="md-nav__link">
+    <span class="md-ellipsis">
+      ERC
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#figures" class="md-nav__link">
+    <span class="md-ellipsis">
+      Figures
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#affiliation-for-authors-of-the-cpp-lab" class="md-nav__link">
+    <span class="md-ellipsis">
+      Affiliation for authors of the CPP lab
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contribution-to-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contribution to papers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#publishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Publishing
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Publishing">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pre-submission-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pre-submission checklist:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#post-acceptation-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      Post-acceptation checklist:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#open-access" class="md-nav__link">
+    <span class="md-ellipsis">
+      Open-access
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pre-print" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pre-print
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#open-data-platforms" class="md-nav__link">
+    <span class="md-ellipsis">
+      Open-data platforms
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Open-data platforms">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#generic" class="md-nav__link">
+    <span class="md-ellipsis">
+      Generic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mri-eeg" class="md-nav__link">
+    <span class="md-ellipsis">
+      MRI - EEG
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dial-digital-access-to-libraries-research-publications" class="md-nav__link">
+    <span class="md-ellipsis">
+      DIAL "Digital access to libraries - Research Publications"
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#press-release-communique-de-presse" class="md-nav__link">
+    <span class="md-ellipsis">
+      Press release / Communiqué de presse
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Activities
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Activities
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../learning_french/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Learnign French
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fun_activities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fun activities
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resources
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Resources">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-to-write" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to write
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reference-management" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reference management
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#naming-convention-for-word-documents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Naming convention for word documents
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Naming convention for word documents">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Examples
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mentions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mentions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Mentions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#softwares" class="md-nav__link">
+    <span class="md-ellipsis">
+      Softwares
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Softwares">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stimulus-presentation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stimulus presentation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mri" class="md-nav__link">
+    <span class="md-ellipsis">
+      MRI
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#high-res-mri" class="md-nav__link">
+    <span class="md-ellipsis">
+      high-res MRI
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#grants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Grants
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Grants">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#erc" class="md-nav__link">
+    <span class="md-ellipsis">
+      ERC
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#figures" class="md-nav__link">
+    <span class="md-ellipsis">
+      Figures
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#affiliation-for-authors-of-the-cpp-lab" class="md-nav__link">
+    <span class="md-ellipsis">
+      Affiliation for authors of the CPP lab
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contribution-to-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contribution to papers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#publishing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Publishing
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Publishing">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pre-submission-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pre-submission checklist:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#post-acceptation-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      Post-acceptation checklist:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#open-access" class="md-nav__link">
+    <span class="md-ellipsis">
+      Open-access
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pre-print" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pre-print
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#open-data-platforms" class="md-nav__link">
+    <span class="md-ellipsis">
+      Open-data platforms
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Open-data platforms">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#generic" class="md-nav__link">
+    <span class="md-ellipsis">
+      Generic
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mri-eeg" class="md-nav__link">
+    <span class="md-ellipsis">
+      MRI - EEG
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dial-digital-access-to-libraries-research-publications" class="md-nav__link">
+    <span class="md-ellipsis">
+      DIAL "Digital access to libraries - Research Publications"
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#press-release-communique-de-presse" class="md-nav__link">
+    <span class="md-ellipsis">
+      Press release / Communiqué de presse
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/cpp-lln-lab/CPP_LabGuide/edit/main/doc/papers.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="papers"><a class="toclink" href="#papers">Papers</a><a class="headerlink" href="#papers" title="Permanent link">#</a></h1>
+<h2 id="resources"><a class="toclink" href="#resources">Resources</a><a class="headerlink" href="#resources" title="Permanent link">#</a></h2>
+<h3 id="how-to-write"><a class="toclink" href="#how-to-write">How to write</a><a class="headerlink" href="#how-to-write" title="Permanent link">#</a></h3>
+<p>8-week Coursera course on Writing in the Sciences (not a lot of work) (https://www.coursera.org/learn/sciwrite)</p>
+<h3 id="reference-management"><a class="toclink" href="#reference-management">Reference management</a><a class="headerlink" href="#reference-management" title="Permanent link">#</a></h3>
+<p>Zotero (https://www.zotero.org/) is highly reccomended. </p>
+<h3 id="naming-convention-for-word-documents"><a class="toclink" href="#naming-convention-for-word-documents">Naming convention for word documents</a><a class="headerlink" href="#naming-convention-for-word-documents" title="Permanent link">#</a></h3>
+<p>Just a few lines for outlining good practices when exchanging files for abstract or paper submission.
+Here is the model we should use: <code>YourLastName_TargettedJournal/Conference_Date_InitialsPersonwhoCorrected</code></p>
+<h4 id="examples"><a class="toclink" href="#examples">Examples</a><a class="headerlink" href="#examples" title="Permanent link">#</a></h4>
+<p>If David Bowie sent his last paper for the journal RollingStones on 06.08.18 and Olivier (Collignon) comments it the day after:
+David sent: Bowie_RollingStones_18-08-06
+Olivier sends back to David: Bowie_RollingStones_18-08-07_oc</p>
+<p>If we got rejected and submit to MickeyMag few days after:
+David sent: Bowie_MickeyMag_18-08-08
+Olivier sends back to David: Bowie_MickeyMag_18-08-09_oc</p>
+<p>If we dont know yet where to submit because we are out of options at the moment, this will be:
+David sent: Bowie_InPrep_18-08-08
+Olivier sends back to David: Bowie_InPrep_18-08-08_oc</p>
+<p>For a conference / event (e.g. headlining Rock Werchter):
+David sent: Bowie_Wechter_18-08-08
+Olivier sends back to David: Bowie_Wechter_18-08-08_oc</p>
+<p>This will massively help keeping track of things and avoid reading version that are not up to date.</p>
+<h2 id="mentions"><a class="toclink" href="#mentions">Mentions</a><a class="headerlink" href="#mentions" title="Permanent link">#</a></h2>
+<h3 id="softwares"><a class="toclink" href="#softwares">Softwares</a><a class="headerlink" href="#softwares" title="Permanent link">#</a></h3>
+<p>Using Research Resource Identifiers (RRIDs) within the Materials and methods section to help promote the identification, discovery, and reuse of key research resources.
+Here are some of the common ones. Feel free to add more (for suggestions, check: https://scicrunch.org/resources)</p>
+<h4 id="stimulus-presentation"><a class="toclink" href="#stimulus-presentation">Stimulus presentation</a><a class="headerlink" href="#stimulus-presentation" title="Permanent link">#</a></h4>
+<ul>
+<li>Presentation (RRID:SCR_002521)</li>
+<li>Psychtoolbox (RRID:SCR_002881)</li>
+<li>PsychoPy (RRID:SCR_006571)</li>
+</ul>
+<h4 id="mri"><a class="toclink" href="#mri">MRI</a><a class="headerlink" href="#mri" title="Permanent link">#</a></h4>
+<ul>
+<li>FSL (RRID:SCR_002823)</li>
+<li>SPM12 (RRID:SCR_007037)</li>
+</ul>
+<h4 id="high-res-mri"><a class="toclink" href="#high-res-mri">high-res MRI</a><a class="headerlink" href="#high-res-mri" title="Permanent link">#</a></h4>
+<ul>
+<li>cbs tools (RRID:SCR_009452)</li>
+<li>MIPAV (RRID:SCR_007371)</li>
+<li>JIST (RRID:SCR_00888)</li>
+</ul>
+<h3 id="grants"><a class="toclink" href="#grants">Grants</a><a class="headerlink" href="#grants" title="Permanent link">#</a></h3>
+<h4 id="erc"><a class="toclink" href="#erc">ERC</a><a class="headerlink" href="#erc" title="Permanent link">#</a></h4>
+<p>Use the following sentence
+This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No [number] attributed to OC.</p>
+<h2 id="figures"><a class="toclink" href="#figures">Figures</a><a class="headerlink" href="#figures" title="Permanent link">#</a></h2>
+<p>In order to create coherence across papers and because most of the histograms we typically include in our papers have 2 colors:
+Patients (blind, moebius, deaf, etc.): Orange: RGB: 255.158.74, ​​HEX: #FF9E4A
+Controls: Turquoise: RGB: 105.170.153, HEX #69AA99</p>
+<h2 id="affiliation-for-authors-of-the-cpp-lab"><a class="toclink" href="#affiliation-for-authors-of-the-cpp-lab">Affiliation for authors of the CPP lab</a><a class="headerlink" href="#affiliation-for-authors-of-the-cpp-lab" title="Permanent link">#</a></h2>
+<p>Please make sure to have your right affiliation written in your publications:
+<code>Crossmodal Perception and Plasticity Lab, Institute of Neuroscience (IoNS) and Institute of Research in Psychology (IPSY), Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium</code></p>
+<h2 id="contribution-to-papers"><a class="toclink" href="#contribution-to-papers">Contribution to papers</a><a class="headerlink" href="#contribution-to-papers" title="Permanent link">#</a></h2>
+<p>To list authors's contribution in your paper, refer to this structure: https://credit.niso.org/ 
+Make sure to put Olivier as corresponding author for financial reasons (reduced fees).</p>
+<p>This link can help you defining your author’s list: https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two
+In short, four conditions should be met to include someone as a co-author : 
+1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND
+2. Drafting the work or reviewing it critically for important intellectual content; AND
+3. Final approval of the version to be published; AND
+4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</p>
+<h2 id="publishing"><a class="toclink" href="#publishing">Publishing</a><a class="headerlink" href="#publishing" title="Permanent link">#</a></h2>
+<h3 id="pre-submission-checklist"><a class="toclink" href="#pre-submission-checklist">Pre-submission checklist:</a><a class="headerlink" href="#pre-submission-checklist" title="Permanent link">#</a></h3>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> is your data online and FAIR (Findable Accessible Interoperable Reusable)?</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> is your code online and accessible?</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> did you post a pre-print?</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> did you update the CPP lab’s website with a link to the preprint? (check with Jacek)</li>
+</ul>
+<h3 id="post-acceptation-checklist"><a class="toclink" href="#post-acceptation-checklist">Post-acceptation checklist:</a><a class="headerlink" href="#post-acceptation-checklist" title="Permanent link">#</a></h3>
+<p>Update: 
+- [ ] the lab’s website
+- [ ] research gate
+- [ ] your ORCID account
+- [ ] your DIAL account</p>
+<p>But don't forget to also think of: 
+- [ ] writing a press release (check with Olivier)
+- [ ] social media thread (e.g twitter, bluesky) with the relevant hashtags and accounts (ADRE, UCLouvain, Louvain Bionics, IPSY, IONS)</p>
+<h3 id="open-access"><a class="toclink" href="#open-access">Open-access</a><a class="headerlink" href="#open-access" title="Permanent link">#</a></h3>
+<p>Check the romeo database of journals to know the different journals policy regarding green, gold and other type of open access publishing.</p>
+<h3 id="pre-print"><a class="toclink" href="#pre-print">Pre-print</a><a class="headerlink" href="#pre-print" title="Permanent link">#</a></h3>
+<p>Make sure you put your paper on BioRxiv (https://www.biorxiv.org/) or PsyArXiv (https://osf.io/preprints/psyarxiv) pre-print servers.
+More and more journals are accepting them, but some dinosaurs are still reluctant about pre-prints. Check the journal guidelines before submitting.
+In case you're asked to make many changes during the submission, or in case of a re-submission, you can also update your preprint. 
+TIP: subscribe to the daily emails from Biorxiv, or follow them on twitter / bluesky, to keep up wiht the latest pre-prints in your field (this can be more than 6 months before the e-publication in a journal).</p>
+<h3 id="open-data-platforms"><a class="toclink" href="#open-data-platforms">Open-data platforms</a><a class="headerlink" href="#open-data-platforms" title="Permanent link">#</a></h3>
+<h4 id="generic"><a class="toclink" href="#generic">Generic</a><a class="headerlink" href="#generic" title="Permanent link">#</a></h4>
+<ul>
+<li>GIN (https://gin.g-node.org/) is the platform mostly used in the lab to store havey datasets and analyses. We have a lab account, as well as a lab brewery for work-in-progress datasets.</li>
+<li>OSF (https://osf.io/) can be a valid alternative, mostly when you want to make your dataset public. </li>
+</ul>
+<h4 id="mri-eeg"><a class="toclink" href="#mri-eeg">MRI - EEG</a><a class="headerlink" href="#mri-eeg" title="Permanent link">#</a></h4>
+<ul>
+<li>Openeneuro (https://openneuro.org/) for raw data sets organized as a Brain imaging data structure. It offers the possibility to run quality control (MRIQC) and preprocessing (fMRIprep) on the cloud. </li>
+<li>Neurovault (https://neurovault.org/) for statistical maps at the group or individual level and for ROI</li>
+</ul>
+<h3 id="dial-digital-access-to-libraries-research-publications"><a class="toclink" href="#dial-digital-access-to-libraries-research-publications">DIAL "Digital access to libraries - Research Publications"</a><a class="headerlink" href="#dial-digital-access-to-libraries-research-publications" title="Permanent link">#</a></h3>
+<p>How to add your research production (publications/speech/poster/etc). on the online library: login here and follow these instructions.
+In case of problems contact caroline.closset@uclouvain.be</p>
+<h3 id="press-release-communique-de-presse"><a class="toclink" href="#press-release-communique-de-presse">Press release / Communiqué de presse</a><a class="headerlink" href="#press-release-communique-de-presse" title="Permanent link">#</a></h3>
+<p>It is always better, in UCLouvain, to send a communication in French to the francophone press, as it's more impactful. An Wnglish versionis however still helpful to have for the translated pages of the website. </p>
+<p>Contact:
+Isabelle Decoster, responsable presse UCLouvain
+Tél. +32 (0)10 47 88 70 - +32 (0) 486 42 62 20 - isabelle.decoster@uclouvain.be </p>
+<p>More info on how to format them (all in french):
+https://intranet.uclouvain.be/fr/myucl/administrations/arec/presse/comment-bien-vendre-mon-sujet.html </p>
+<p>Possibly get in touch with Science Today the outreach outlet of UCLouvain
+https://uclouvain.be/fr/sciencetoday
+https://uclouvain.be/fr/sciencetoday/contact.html </p>
+<p>Spread the word to IPSY, ADRE, IONS
+IPSY: Nadine Fraselle: Nadine Fraselle <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#110;&#97;&#100;&#105;&#110;&#101;&#46;&#102;&#114;&#97;&#115;&#101;&#108;&#108;&#101;&#64;&#117;&#99;&#108;&#111;&#117;&#118;&#97;&#105;&#110;&#46;&#98;&#101;">&#110;&#97;&#100;&#105;&#110;&#101;&#46;&#102;&#114;&#97;&#115;&#101;&#108;&#108;&#101;&#64;&#117;&#99;&#108;&#111;&#117;&#118;&#97;&#105;&#110;&#46;&#98;&#101;</a>
+IoNS : Sophie Yernaux <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#121;&#101;&#114;&#110;&#97;&#117;&#120;&#64;&#117;&#99;&#108;&#111;&#117;&#118;&#97;&#105;&#110;&#46;&#98;&#101;">&#115;&#46;&#121;&#101;&#114;&#110;&#97;&#117;&#120;&#64;&#117;&#99;&#108;&#111;&#117;&#118;&#97;&#105;&#110;&#46;&#98;&#101;</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      MIT
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "content.action.edit"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>
