@@ -8,7 +8,7 @@
 - Step 2: Choose your desired specifications and options from the appropriate website (e.g., Apple). It is also good to ask your lab mates what specs could be important not to overlook.
 
 - Step 3: Save a PDF of the detailed quote or invoice (with all specifications) and send it to Roland Jaumain (roland.jaumain@uclouvain.be). He will look for available university discounts and provide a final invoice to you and Olivier.
-- Step 4: After acceptance, upload the final invoice to the Lab Drive folder under [Main/Computers/Computers](https://drive.google.com/drive/folders/1VsR3GPradIYer0yPuEBcIN9wFDStPiS9?usp=sharing), to keep track of all computer purchases.  
+- Step 4: After acceptance, upload the final invoice to the Lab Drive folder under [Main/Computers/Computers](https://drive.google.com/drive/folders/1VsR3GPradIYer0yPuEBcIN9wFDStPiS9?usp=sharing), to keep track of all computer purchases.
 
 Take into account that after purchase, the **delivery can take 5 to 8 weeks**.
 
@@ -17,7 +17,7 @@ Take into account that after purchase, the **delivery can take 5 to 8 weeks**.
 You might need to buy other material during your time in the lab, such as hard drives and IT accessories, office supplies, specific cables, materials for experiments, ...
 Referent person: Isabelle Legrain
 
-By default, you always need to **buy via official provider** : 
+By default, you always need to **buy via official provider** :
 - [Manutan](https://www.manutan.be/fr/mab?gclid=EAIaIQobChMI6qKmkJLn8QIVFpftCh1F2A1mEAAYASAAEgIzsPD_BwE)
 - [Lyreco](https://www.lyreco.com/webshop/FRBE/index.html)
 - [Redcorp](https://www.redcorp.com/)

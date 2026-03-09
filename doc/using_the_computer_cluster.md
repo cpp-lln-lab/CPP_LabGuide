@@ -8,4 +8,3 @@ If you used the CECI (UCL cluster) for your project, mention it like this in the
 
 
 - Here, the [CPP_HCP cookguide](https://cpp-lln-lab.github.io/CPP_HPC/) where you can find how to run fmriprep, mriqc, any other singularity based method and other softwares by submitttiing jobs.
-

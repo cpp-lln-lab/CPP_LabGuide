@@ -59,7 +59,7 @@ Data:
 [CPP GIN organization](https://gin.g-node.org/cpp-lln-lab) for source, raw, and preprocessed data for version control and sharing. Repos could be public or private.
 [CPP brewerey](https://gin.g-node.org/cpp_brewery) for data not ready to be officially distributed (like sandbox repos or data still under processing)
 
-Dataset summary that puts together all the bidsified raw and derivatives repos of the lab and summarizes metadata in a table from the GIN repo above: 
+Dataset summary that puts together all the bidsified raw and derivatives repos of the lab and summarizes metadata in a table from the GIN repo above:
 
 - [website with summary table](https://cpp-lln-lab.github.io/CPP_Datasets/index.html)
 - [Githuba repo CPP_Datasets](https://github.com/cpp-lln-lab/CPP_Datasets)
@@ -90,7 +90,7 @@ For the external collaborator (copied from above):
 folder_for_installation=
 
 # mind that this should be the ssh url since the repo is private so it should start with git@gin.g-node.org:/cpp-lln-lab/name-of-the-dataset
-repo_url= 
+repo_url=
 
 mkdir -p $folder_for_installation
 

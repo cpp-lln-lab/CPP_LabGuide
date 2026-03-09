@@ -1,4 +1,4 @@
-# Learning French 
+# Learning French
 
 Bruxelles is a bilingual city (French-Dutch) where most of the people are also English speakers. On the contrary Louvain-la-Neuve is in the French region of Belgium and here it can be useful to speak a bit of French.
 

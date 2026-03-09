@@ -1,12 +1,12 @@
 # Papers
 
-## Resources 
+## Resources
 
 ### How to write
 8-week Coursera course on Writing in the Sciences (not a lot of work) (https://www.coursera.org/learn/sciwrite)
 
 ### Reference management
-Zotero (https://www.zotero.org/) is highly reccomended. 
+Zotero (https://www.zotero.org/) is highly reccomended.
 
 ### Naming convention for word documents
 Just a few lines for outlining good practices when exchanging files for abstract or paper submission.
@@ -55,7 +55,7 @@ Here are some of the common ones. Feel free to add more (for suggestions, check:
 
 ### Grants
 
-#### ERC 
+#### ERC
 Use the following sentence
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme under grant agreement No [number] attributed to OC.
 
@@ -70,11 +70,11 @@ Please make sure to have your right affiliation written in your publications:
 `Crossmodal Perception and Plasticity Lab, Institute of Neuroscience (IoNS) and Institute of Research in Psychology (IPSY), Université Catholique de Louvain, 1348 Louvain-la-Neuve, Belgium`
 
 ## Contribution to papers
-To list authors's contribution in your paper, refer to this structure: https://credit.niso.org/ 
+To list authors's contribution in your paper, refer to this structure: https://credit.niso.org/
 Make sure to put Olivier as corresponding author for financial reasons (reduced fees).
 
 This link can help you defining your author’s list: https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two
-In short, four conditions should be met to include someone as a co-author : 
+In short, four conditions should be met to include someone as a co-author :
 1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND
 2. Drafting the work or reviewing it critically for important intellectual content; AND
 3. Final approval of the version to be published; AND
@@ -90,13 +90,13 @@ In short, four conditions should be met to include someone as a co-author :
 - [ ] did you update the CPP lab’s website with a link to the preprint? (check with Jacek)
 
 ### Post-acceptation checklist:
-Update: 
+Update:
 - [ ] the lab’s website
 - [ ] research gate
 - [ ] your ORCID account
 - [ ] your DIAL account
 
-But don't forget to also think of: 
+But don't forget to also think of:
 - [ ] writing a press release (check with Olivier)
 - [ ] social media thread (e.g twitter, bluesky) with the relevant hashtags and accounts (ADRE, UCLouvain, Louvain Bionics, IPSY, IONS)
 
@@ -106,17 +106,17 @@ Check the romeo database of journals to know the different journals policy regar
 ### Pre-print
 Make sure you put your paper on BioRxiv (https://www.biorxiv.org/) or PsyArXiv (https://osf.io/preprints/psyarxiv) pre-print servers.
 More and more journals are accepting them, but some dinosaurs are still reluctant about pre-prints. Check the journal guidelines before submitting.
-In case you're asked to make many changes during the submission, or in case of a re-submission, you can also update your preprint. 
+In case you're asked to make many changes during the submission, or in case of a re-submission, you can also update your preprint.
 TIP: subscribe to the daily emails from Biorxiv, or follow them on twitter / bluesky, to keep up wiht the latest pre-prints in your field (this can be more than 6 months before the e-publication in a journal).
 
 ### Open-data platforms
 
 #### Generic
 - GIN (https://gin.g-node.org/) is the platform mostly used in the lab to store havey datasets and analyses. We have a lab account, as well as a lab brewery for work-in-progress datasets.
-- OSF (https://osf.io/) can be a valid alternative, mostly when you want to make your dataset public. 
+- OSF (https://osf.io/) can be a valid alternative, mostly when you want to make your dataset public.
 
-#### MRI - EEG 
-- Openeneuro (https://openneuro.org/) for raw data sets organized as a Brain imaging data structure. It offers the possibility to run quality control (MRIQC) and preprocessing (fMRIprep) on the cloud. 
+#### MRI - EEG
+- Openeneuro (https://openneuro.org/) for raw data sets organized as a Brain imaging data structure. It offers the possibility to run quality control (MRIQC) and preprocessing (fMRIprep) on the cloud.
 - Neurovault (https://neurovault.org/) for statistical maps at the group or individual level and for ROI
 
 
@@ -125,19 +125,19 @@ How to add your research production (publications/speech/poster/etc). on the onl
 In case of problems contact caroline.closset@uclouvain.be
 
 ### Press release / Communiqué de presse
-It is always better, in UCLouvain, to send a communication in French to the francophone press, as it's more impactful. An Wnglish versionis however still helpful to have for the translated pages of the website. 
+It is always better, in UCLouvain, to send a communication in French to the francophone press, as it's more impactful. An Wnglish versionis however still helpful to have for the translated pages of the website.
 
 Contact:
 Isabelle Decoster, responsable presse UCLouvain
-Tél. +32 (0)10 47 88 70 - +32 (0) 486 42 62 20 - isabelle.decoster@uclouvain.be 
+Tél. +32 (0)10 47 88 70 - +32 (0) 486 42 62 20 - isabelle.decoster@uclouvain.be
 
 More info on how to format them (all in french):
-https://intranet.uclouvain.be/fr/myucl/administrations/arec/presse/comment-bien-vendre-mon-sujet.html 
+https://intranet.uclouvain.be/fr/myucl/administrations/arec/presse/comment-bien-vendre-mon-sujet.html
 
 
 Possibly get in touch with Science Today the outreach outlet of UCLouvain
 https://uclouvain.be/fr/sciencetoday
-https://uclouvain.be/fr/sciencetoday/contact.html 
+https://uclouvain.be/fr/sciencetoday/contact.html
 
 
 Spread the word to IPSY, ADRE, IONS

@@ -15,7 +15,7 @@ When you get paid?
 Les salaires sont versés 2 jours ouvrables avant le dernier jour du mois.
 
 Holidays (official UCL “rules”)?
-20 jours de congé légaux 
+20 jours de congé légaux
 6 jours de congé conventionnels (dont 2-3 utilisés entre Noël et Nouvel an)
 A prendre en accord avec votre promoteur
 

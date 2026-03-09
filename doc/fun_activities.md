@@ -1,6 +1,6 @@
 ## Restaurants
 
-### University 
+### University
 
 - [University restaurant](https://uclouvain.be/fr/decouvrir/resto-u/le-sablon-self.html )
 
@@ -19,14 +19,14 @@
 
 ### Not Belgian restaurants
 
-- [Paolo’s Idea](http://www.paolosidea.com) (Italian)-it's good again! 
+- [Paolo’s Idea](http://www.paolosidea.com) (Italian)-it's good again!
 - [La bottega della pizza](https://www.facebook.com/Pizzeria-La-Bottega-Della-Pizza-403460962473/) (Italian)
 - [Ouzerie Mezedopolio](http://www.restaurant-grec-ixelles.be/#restaurant-ouzerie-grecque) (greek)
 - [Makisu](https://www.makisu.be/) (Sushi) the one is Flandre is best
 - [Sushi Box](http://www.sushibox.be/) (Sushi)
 - Saravanaa Bhavan Rue Jourdan 10, 1060 Saint-Gilles -(the only authentic south indian)
-- [El Turco](https://elturco.be/ ) (open buffet, Luxembourg neighbourhood, very good Turkish food) 
-- [Mili Ixelles](https://miliixelles.eatbu.com/?lang=en#): Chau. de Boondael 3561050 Ixelles (authentic Chinese food, especially for spicy food) 
+- [El Turco](https://elturco.be/ ) (open buffet, Luxembourg neighbourhood, very good Turkish food)
+- [Mili Ixelles](https://miliixelles.eatbu.com/?lang=en#): Chau. de Boondael 3561050 Ixelles (authentic Chinese food, especially for spicy food)
 
 ## Cafes
 
@@ -38,11 +38,11 @@
 - [Cinema Cinescope](https://www.cinescope.be)
 - [Cinematek](http://cinematek.be/)
 
-## Theaters 
+## Theaters
 
 - [Atelier Théâtre Jean Vilar](http://www.atjv.be)
 
-## Sports 
+## Sports
 
 - Sport centre in LLN, with different options according to your [position](https://www.uclouvain.be/fr/sport/le-passsports-uclouvain)
 - [Swimming pool](https://csblocry.be/piscines/)

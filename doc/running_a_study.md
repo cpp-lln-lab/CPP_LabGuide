@@ -13,7 +13,7 @@ I see this as a "pre-review" process where we try to ensure that you will be abl
 All in all, my 2 favourite questions are:
 - what is your fundamental scientific questions?
 - If you were given the whole data set tomorrow, what would you do exactly with them?
-Colleagues with different backgrounds have their own little quirks. So be prepared. 
+Colleagues with different backgrounds have their own little quirks. So be prepared.
 
 We have prepared 2 templates, see attached:
 - the "project presentation" (PPt), to be adapted for the team presentation
